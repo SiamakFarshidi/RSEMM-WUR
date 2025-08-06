@@ -4,7 +4,7 @@
 
 > 🔗 Access the dashboard: [https://ai4rse.nl/RSEMM/](https://ai4rse.nl/RSEMM/)  
 > 📂 Evaluation dataset: [Mendeley Data](https://doi.org/10.17632/t2dygzcsyt.2)  
-> 💻 Source code: [GitHub Repository](https://github.com/ai4rse/RSEMM)
+> 💻 Source code: [GitHub Repository](https://github.com/SiamakFarshidi/RSEMM-WUR)
 
 ---
 
