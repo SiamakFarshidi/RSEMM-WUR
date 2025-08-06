@@ -1,0 +1,74 @@
+{
+    "ResearchSoftwareCategories": {
+        "RoleBased": {
+            "ModelingSimulationDataAnalytics": {
+                "ModelingAndSimulation": [
+                    "Numerical Modeling",
+                    "Agent-based Modeling"
+                ],
+                "DataAnalytics": {
+                    "DataSources": [
+                        "Observation Data",
+                        "Simulation Data"
+                    ],
+                    "Methods": [
+                        "Statistical Analysis",
+                        "Machine Learning"
+                    ]
+                },
+                "IntegrativeAnalysis": [
+                    "Data Assimilation",
+                    "Decision Analysis"
+                ],
+                "ScientificVisualization": []
+            },
+            "ProofOfConcept": [
+                "Mathematics Research",
+                "Computer Science Research",
+                "Software Engineering Research",
+                "Electrical Engineering Research",
+                "Mechanical Engineering Research",
+                "Civil Engineering Research"
+            ],
+            "ResearchInfrastructure": {
+                "ControlAndMonitoringSoftware": [
+                    "Embedded",
+                    "Web-Based",
+                    "Native"
+                ],
+                "DataCollection": [],
+                "PipelinesWorkflows": [],
+                "Libraries": [],
+                "LaboratoryNotebooks": [],
+                "DataManagement": [],
+                "SoftwareManagement": [],
+                "CollaborationSoftware": []
+            }
+        },
+        "DeveloperBased": {
+            "IndividualResearcher": [],
+            "LocalResearchGroup": [],
+            "ProjectGroup": [],
+            "Community": {
+                "DeploymentTypes": [
+                    "Open Source Research Software",
+                    "Closed Source Research Software",
+                    "Research Software as a Service"
+                ]
+            },
+            "Contractor": {
+                "DeploymentTypes": [
+                    "Open Source Research Software",
+                    "Closed Source Research Software",
+                    "Research Software as a Service"
+                ]
+            }
+        },
+        "MaturityBased": [
+            "Research Data Processes",
+            "Novel Methods and Models",
+            "Accepted Methods and Models"
+        ]
+    }    
+}
+

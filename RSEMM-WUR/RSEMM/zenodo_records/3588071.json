@@ -1,0 +1,243 @@
+{
+  "created": "2019-12-20T11:48:42.183923+00:00",
+  "modified": "2024-07-22T14:32:15.029562+00:00",
+  "id": 3588071,
+  "conceptrecid": "3588070",
+  "doi": "10.5281/zenodo.3588071",
+  "conceptdoi": "10.5281/zenodo.3588070",
+  "doi_url": "https://doi.org/10.5281/zenodo.3588071",
+  "metadata": {
+    "title": "La rivoluzione incompiuta. La scienza aperta tra diritto d'autore e propriet\u00e0 intellettuale",
+    "doi": "10.5281/zenodo.3588071",
+    "publication_date": "2019-12-20",
+    "description": "<p>Se si domanda a una persona di buon senso &laquo;a chi appartiene la scienza?&raquo;, la risposta pi\u00f9 probabile &egrave;: &laquo;a tutti!&raquo;.</p>\n\n<p>Dietro il velo di una risposta istintiva e (apparentemente) superficiale si nasconde la storia dell&rsquo;eterno conflitto tra apertura e chiusura della conoscenza, tra pubblicit\u00e0 e segretezza. Un conflitto che assume connotati peculiari nell&rsquo;era digitale.</p>\n\n<p>All&rsquo;alba dell&rsquo;era di Internet una parte della comunit\u00e0 scientifica ha coltivato la speranza di potenziare il discorso scientifico e l&rsquo;uso pubblico della ragione creando una Rete democratica delle menti.</p>\n\n<p>Questa speranza oggi appare minacciata dalla mercificazione della conoscenza e dalle forze che mirano ad accentrare il potere decisionale nelle mani di pochi. La scienza appare sempre pi&ugrave; in crisi. L&rsquo;apertura pu\u00f2 curare la crisi in cui versa la scienza? Cosa significa scienza aperta? Le risposte contenute nel libro sono parziali e attengono al dilemma evocato nel suo titolo: diritto d&rsquo;autore o propriet\u00e0 intellettuale?</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Caso, Roberto",
+        "affiliation": "Universit\u00e0 di Trento"
+      }
+    ],
+    "keywords": [
+      "Copyright",
+      "Intellectual Property",
+      "Diritto d'autore",
+      "Propriet\u00e0 Intellettuale",
+      "Open Science",
+      "Open Access",
+      "Scienza Aperta",
+      "Accesso Aperto"
+    ],
+    "version": "1.0",
+    "language": "ita",
+    "resource_type": {
+      "title": "Book",
+      "type": "publication",
+      "subtype": "book"
+    },
+    "license": {
+      "id": "cc-by-sa-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": false,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "3588070"
+          }
+        }
+      ]
+    }
+  },
+  "title": "La rivoluzione incompiuta. La scienza aperta tra diritto d'autore e propriet\u00e0 intellettuale",
+  "links": {
+    "self": "https://zenodo.org/api/records/3588071",
+    "self_html": "https://zenodo.org/records/3588071",
+    "preview_html": "https://zenodo.org/records/3588071?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.3588071",
+    "self_doi": "https://doi.org/10.5281/zenodo.3588071",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3588071",
+    "reserve_doi": "https://zenodo.org/api/records/3588071/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3588070",
+    "parent_html": "https://zenodo.org/records/3588070",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3588070",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3588070",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3588071/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3588071/sequence/default",
+    "files": "https://zenodo.org/api/records/3588071/files",
+    "media_files": "https://zenodo.org/api/records/3588071/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:3588071:Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "archive": "https://zenodo.org/api/records/3588071/files-archive",
+    "archive_media": "https://zenodo.org/api/records/3588071/media-files-archive",
+    "latest": "https://zenodo.org/api/records/3588071/versions/latest",
+    "latest_html": "https://zenodo.org/records/3588071/latest",
+    "versions": "https://zenodo.org/api/records/3588071/versions",
+    "draft": "https://zenodo.org/api/records/3588071/draft",
+    "access_links": "https://zenodo.org/api/records/3588071/access/links",
+    "access_grants": "https://zenodo.org/api/records/3588071/access/grants",
+    "access_users": "https://zenodo.org/api/records/3588071/access/users",
+    "access_request": "https://zenodo.org/api/records/3588071/access/request",
+    "access": "https://zenodo.org/api/records/3588071/access",
+    "communities": "https://zenodo.org/api/records/3588071/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/3588071/communities-suggestions",
+    "requests": "https://zenodo.org/api/records/3588071/requests"
+  },
+  "updated": "2024-07-22T14:32:15.029562+00:00",
+  "recid": "3588071",
+  "revision": 5,
+  "files": [
+    {
+      "id": "74ff297e-70bd-4c37-859f-18c6b857f513",
+      "key": "Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf",
+      "size": 1642453,
+      "checksum": "md5:4660514ffcc3a37c4ee8304624e31b3e",
+      "links": {
+        "self": "https://zenodo.org/api/records/3588071/files/Roberto_Caso_La_rivoluzione_incompiuta_2020.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "22712"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 931,
+    "unique_downloads": 828,
+    "views": 1109,
+    "unique_views": 1023,
+    "version_downloads": 865,
+    "version_unique_downloads": 770,
+    "version_unique_views": 921,
+    "version_views": 1005
+  },
+  "state": "done",
+  "submitted": true,
+  "repo-profile": {
+    "software-engineering-efforts": {
+      "repo": null,
+      "dimensions": {
+        "community": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "ci": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "documentation": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "history": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "issues": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "license": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "unittest": {
+          "actual": 0.0,
+          "estimation": "low"
+        }
+      },
+      "raw": {
+        "total_sloc": 0,
+        "total_cloc": 0,
+        "test_sloc": 0,
+        "total_commits": 0,
+        "first_commit_date": "",
+        "last_commit_date": "",
+        "duration_months": 0.0,
+        "issue_events": 0
+      }
+    },
+    "ai-ml-ops": {
+      "repository": null,
+      "category": null,
+      "types": [],
+      "name": "",
+      "description": "",
+      "topics": [],
+      "timestamp": "2025-06-23T05:12:55.329347+00:00"
+    },
+    "fair-assessment": {
+      "subprinciple_assessment": {
+        "doi_present": "yes",
+        "subcomponent_identifiers": "unknown",
+        "version_identifiers": "yes",
+        "rich_metadata_present": "yes",
+        "metadata_includes_doi": "yes",
+        "metadata_accessible": "yes",
+        "software_retrievable": "yes",
+        "authentication_required": "not applicable",
+        "metadata_persistent": "yes",
+        "uses_standard_data_formats": "unknown",
+        "qualified_references_to_objects": "no",
+        "clear_license": "yes",
+        "provenance_with_orcid": "no",
+        "qualified_references_to_software": "unknown",
+        "ci_or_community_standards": "unknown"
+      },
+      "principle_categories": {
+        "Findable": "High",
+        "Accessible": "Medium",
+        "Interoperable": "Low",
+        "Reusable": "Low"
+      },
+      "overall_fairness": "Low",
+      "git_url": "none found",
+      "howfairis_score": 0,
+      "howfairis_details": {
+        "repository": "no",
+        "license": "no",
+        "registry": "no",
+        "citation": "no",
+        "quality": "no"
+      }
+    },
+    "code-gen-evaluation": {
+      "#AllFiles": 0,
+      "#Selected Recent Files": 0,
+      "#Human": 0,
+      "#AI": 0,
+      "ai_ratio": 0.0,
+      "estimation": "Low",
+      "analyzed-scripts": {}
+    },
+    "recommendation": "1. Increase community engagement by actively promoting the repository in relevant forums and communities.\n2. Implement a continuous integration process to automate testing and ensure code quality.\n3. Improve documentation by providing clear, comprehensive instructions on how to use the software.\n4. Increase unit testing coverage to identify and fix bugs more efficiently.\n5. Update the license to ensure proper usage and distribution rights are clearly defined.\n6. Enhance reusability by modularizing code and providing clear guidelines on how to integrate it into other projects.\n7. Consider implementing AI tools to assist with code generation and estimation for more efficient development.",
+    "citations": {
+      "citations_found": 2,
+      "citations": [
+        {
+          "title": "After the Labour of Love: the incomplete revolution of open access and open science in the humanities and creative social sciences",
+          "doi": "https://doi.org/10.21428/6ffd8432.5e24d46d",
+          "id": "https://openalex.org/W4228997955",
+          "year": 2022
+        },
+        {
+          "title": "Open science in Italy: lessons learned en route to opening scholarship ",
+          "doi": "https://doi.org/10.22541/au.166558645.58925082/v1",
+          "id": "https://openalex.org/W4304694131",
+          "year": 2022
+        }
+      ]
+    }
+  }
+}

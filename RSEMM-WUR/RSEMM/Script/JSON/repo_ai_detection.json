@@ -1,0 +1,20 @@
+{
+  "#AllFiles": 347,
+  "#Selected Recent Files": 10,
+  "#Human": 5,
+  "#AI": 5,
+  "ai_ratio": 0.5,
+  "estimation": "Medium",
+  "analyzed-scripts": {
+    "ai-detection.py": "AI",
+    "curriculum/curriculum/settings.py": "Human",
+    "curriculum/graphvisualiztion/views.py": "AI",
+    "curriculum/curriculum/__init__.py": "AI",
+    "curriculum/curriculum/asgi.py": "Human",
+    "curriculum/curriculum/urls.py": "AI",
+    "curriculum/curriculum/wsgi.py": "Human",
+    "curriculum/graphvisualiztion/__init__.py": "AI",
+    "curriculum/graphvisualiztion/adhocScripts/importCourse.py": "Human",
+    "curriculum/graphvisualiztion/admin.py": "Human"
+  }
+}

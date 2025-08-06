@@ -1,0 +1,32 @@
+{
+  "subprinciple_assessment": {
+    "doi_present": "yes",
+    "subcomponent_identifiers": "unknown",
+    "version_identifiers": "yes",
+    "rich_metadata_present": "yes",
+    "metadata_includes_doi": "yes",
+    "metadata_accessible": "yes",
+    "software_retrievable": "yes",
+    "authentication_required": "not applicable",
+    "metadata_persistent": "yes",
+    "uses_standard_data_formats": "unknown",
+    "qualified_references_to_objects": "no",
+    "clear_license": "yes",
+    "provenance_with_orcid": "no",
+    "qualified_references_to_software": "no",
+    "ci_or_community_standards": "no"
+  },
+  "principle_categories": {
+    "Findable": "High",
+    "Accessible": "Medium",
+    "Interoperable": "Low",
+    "Reusable": "Low"
+  },
+  "overall_fairness": "Low",
+  "git_url": "https://github.com/Mat-O-Lab/AluTrace-Data-and-Documentation",
+  "repo_inspection": {
+    "license_file": false,
+    "ci_config": false,
+    "dependency_files": []
+  }
+}

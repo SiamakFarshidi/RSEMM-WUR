@@ -1,0 +1,1483 @@
+[
+  {
+    "valid": true,
+    "title": "GitHub repositories with links to academic papers: Public access, traceability, and evolution",
+    "year": 2022,
+    "venue": "The Journal of Systems & Software",
+    "focus": "GitHub",
+    "repo_number": 20278,
+    "factors": {
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation",
+      "contributors_count": "collaboration",
+      "commits_messages": "software engineering practices",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Software effort estimation based on open source projects: Case study of Github",
+    "year": 2017,
+    "venue": "Information and Software Technology",
+    "focus": "GitHub",
+    "repo_number": 182,
+    "factors": {
+      "contributors_count": "collaboration",
+      "commits_messages": "software engineering practices",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "readme_length": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Software Release Patterns: When is it a good time to update a software component?",
+    "year": 2020,
+    "venue": "Procedia Computer Science",
+    "focus": "GitHub",
+    "repo_number": 100,
+    "factors": {
+      "dep_keywords": "dependency analysis",
+      "security_keywords": "security",
+      "agile_keywords": "agile process"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Understanding the Factors that Impact the Popularity of GitHub Repositories",
+    "year": 2016,
+    "venue": "arXiv",
+    "focus": "GitHub",
+    "repo_number": 2500,
+    "factors": {
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "contributors_count": "collaboration",
+      "commits_messages": "software engineering practices",
+      "languages": "software engineering practices",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation",
+    "year": 2023,
+    "venue": "ISSTA",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "gen_ai_keywords": "AI usage",
+      "code_gen_keywords": "AI usage",
+      "code_quality_keywords": "code quality"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Investigating the Impact of Continuous Integration Practices on the Productivity and Quality of Open-Source Projects",
+    "year": 2022,
+    "venue": "ESEM",
+    "focus": "GitHub",
+    "repo_number": 90,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "agile_keywords": "agile process",
+      "code_quality_keywords": "code quality",
+      "test_keywords": "testing"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Assessing the Quality of GitHub Copilot’s Code Generation",
+    "year": 2022,
+    "venue": "PROMISE",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "gen_ai_keywords": "AI usage",
+      "code_gen_keywords": "AI usage",
+      "code_quality_keywords": "code quality",
+      "test_keywords": "testing"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Data Quality Assessment in the Wild: Findings from GitHub",
+    "year": 2024,
+    "venue": "EASE",
+    "focus": "GitHub",
+    "repo_number": 498,
+    "factors": {
+      "description": "documentation",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "languages": "software engineering practices",
+      "dep_keywords": "dependency analysis"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Systematic Mapping Study of Software Development With GitHub",
+    "year": 2017,
+    "venue": "IEEE Access",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Are Your Dependencies Code Reviewed?: Measuring Code Review Coverage in Dependency Updates",
+    "year": 2023,
+    "venue": "IEEE Transactions on Software Engineering",
+    "focus": "GitHub",
+    "repo_number": 3214,
+    "factors": {
+      "dep_keywords": "dependency analysis",
+      "code_review_keywords": "code quality",
+      "security_keywords": "security",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Bidirectional paper-repository tracing in software engineering",
+    "year": 2024,
+    "venue": "MSR",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation",
+      "commits_messages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Compiling Static Software Metrics for Reliability and Maintainability from GitHub Repositories",
+    "year": 2017,
+    "venue": "IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+    "focus": "GitHub",
+    "repo_number": 16,
+    "factors": {
+      "description": "documentation",
+      "languages": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Directory of Datasets for Mining Software Repositories",
+    "year": 2025,
+    "venue": "Data",
+    "focus": "Both",
+    "repo_number": 216,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "keywords": "documentation",
+      "doi_url": "documentation",
+      "html_url": "documentation",
+      "communities": "collaboration",
+      "stats_views": "software engineering practices",
+      "stats_downloads": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "FAIR Principles for Research Software (FAIR4RS Principles)",
+    "year": 2022,
+    "venue": "Research Data Alliance",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "keywords": "documentation",
+      "doi_url": "documentation",
+      "html_url": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "communities": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Dataset for GitHub Repository Deduplication",
+    "year": 2020,
+    "venue": "MSR",
+    "focus": "GitHub",
+    "repo_number": 10649348,
+    "factors": {
+      "fork": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Internal quality assurance for external contributions in GitHub: An empirical investigation",
+    "year": 2017,
+    "venue": "Journal of Software: Evolution and Process",
+    "focus": "GitHub",
+    "repo_number": 21,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "code_quality_keywords": "code quality",
+      "test_keywords": "testing",
+      "security_keywords": "security",
+      "readme.md": "documentation",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "On the Use of GitHub Actions in Software Development Repositories",
+    "year": 2022,
+    "venue": "ICSME",
+    "focus": "GitHub",
+    "repo_number": 67870,
+    "factors": {
+      "workflow_total_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "languages": "software engineering practices",
+      "code_quality_keywords": "code quality",
+      "security_keywords": "security",
+      "dep_keywords": "dependency analysis"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Quality Assurance Awareness in Open Source Software Projects on GitHub",
+    "year": 2023,
+    "venue": "SCAM",
+    "focus": "GitHub",
+    "repo_number": 415,
+    "factors": {
+      "test_keywords": "testing",
+      "code_review_keywords": "code quality",
+      "code_quality_keywords": "code quality",
+      "security_keywords": "security",
+      "workflow_total_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "readme.md": "documentation",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Extracting enhanced artificial intelligence model metadata from software repositories",
+    "year": 2022,
+    "venue": "Empirical Software Engineering",
+    "focus": "Both",
+    "repo_number": 7998,
+    "factors": {
+      "description": "documentation",
+      "license": "documentation",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "code_gen_keywords": "AI usage",
+      "gen_ai_keywords": "AI usage",
+      "used-ai-packages": "AI usage",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "doi_url": "documentation",
+      "html_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "State‐of‐the‐practice in quality assurance in Java‐based open source software development",
+    "year": 2024,
+    "venue": "Software: Practice and Experience",
+    "focus": "GitHub",
+    "repo_number": 1454,
+    "factors": {
+      "test_keywords": "testing",
+      "code_review_keywords": "code quality",
+      "code_quality_keywords": "code quality",
+      "workflow_total_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "dep_keywords": "dependency analysis",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "contributors_count": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Using GitHub in large software engineering classes. An exploratory case study",
+    "year": 2020,
+    "venue": "Computer Science Education",
+    "focus": "GitHub",
+    "repo_number": 18,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Study the correlation between the readme file of GitHub projects and their popularity",
+    "year": 2023,
+    "venue": "The Journal of Systems & Software",
+    "focus": "GitHub",
+    "repo_number": 1566,
+    "factors": {
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation",
+      "license": "documentation",
+      "languages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Is this GitHub project maintained? Measuring the level of maintenance activity of open-source projects",
+    "year": 2020,
+    "venue": "Information and Software Technology",
+    "focus": "GitHub",
+    "repo_number": 6785,
+    "factors": {
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "number_of_committers": "collaboration",
+      "number_of_authors": "collaboration",
+      "readme.md": "documentation",
+      "license": "documentation",
+      "workflow_total_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "The Economics of Big Science 2.0: Essays by Leading Scientists and Policymakers",
+    "year": 2025,
+    "venue": "Springer Science Policy Reports",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "description": "documentation",
+      "license": "documentation",
+      "keywords": "documentation",
+      "communities": "collaboration",
+      "html_url": "documentation",
+      "doi_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Estimating defectiveness of source code: A predictive model using GitHub content",
+    "year": 2018,
+    "venue": "ESEC/FSE",
+    "focus": "GitHub",
+    "repo_number": 20,
+    "factors": {
+      "languages": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "ai_keywords": "AI usage",
+      "code_quality_keywords": "code quality"
+    }
+  },
+  {
+    "valid": true,
+    "title": "How are Software Repositories Mined? A Systematic Literature Review of Workflows, Methodologies, Reproducibility, and Tools",
+    "year": 2022,
+    "venue": "Conference’17 (ACM)",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "description": "documentation",
+      "license": "documentation",
+      "languages": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT",
+    "year": 2023,
+    "venue": "arXiv",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "gen_ai_keywords": "AI usage",
+      "code_gen_keywords": "AI usage",
+      "code_quality_keywords": "code quality",
+      "security_keywords": "security",
+      "test_keywords": "testing"
+    }
+  },
+  {
+    "valid": true,
+    "title": "The Effectiveness of Security Interventions on GitHub",
+    "year": 2023,
+    "venue": "CCS",
+    "focus": "GitHub",
+    "repo_number": 41097,
+    "factors": {
+      "security_keywords": "security",
+      "commits_messages": "software engineering practices",
+      "dep_keywords": "dependency analysis",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Making code citable with Zenodo and GitHub",
+    "year": 2015,
+    "venue": "Software Sustainability Institute Blog",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "doi_url": "documentation",
+      "html_url": "documentation",
+      "grant acquired": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "An Empirical Study of Code Smells in Transformer-based Code Generation Techniques",
+    "year": 2022,
+    "venue": "SCAM",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "code_gen_keywords": "AI usage",
+      "gen_ai_keywords": "AI usage",
+      "used-ai-packages": "AI usage",
+      "code_quality_keywords": "code quality",
+      "security_keywords": "security"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Automated Testing for DevOps in GitHub Environment: A Comprehensive Analysis",
+    "year": 2023,
+    "venue": "ICAMIMIA",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "devops_keywords": "software engineering practices",
+      "test_keywords": "testing",
+      "workflow_total_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Branch Use in Practice: A Large-Scale Empirical Study of 2,923 Projects on GitHub",
+    "year": 2019,
+    "venue": "QRS",
+    "focus": "GitHub",
+    "repo_number": 2923,
+    "factors": {
+      "number_of_branches": "collaboration",
+      "branches_names": "collaboration",
+      "commits_messages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "contributors_count": "collaboration",
+      "size": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository",
+    "year": 2012,
+    "venue": "CSCW",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "contributors_count": "collaboration",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "The Value of an Open Scientific Data and Documentation Platform in a Global Project: The Case of Zenodo",
+    "year": 2025,
+    "venue": "The Economics of Big Science 2.0",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "keywords": "documentation",
+      "html_url": "documentation",
+      "doi_url": "documentation",
+      "stats_views": "software engineering practices",
+      "stats_downloads": "software engineering practices",
+      "communities": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Student Experiences Using GitHub in Software Engineering Courses: A Case Study",
+    "year": 2016,
+    "venue": "ICSE Companion",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "readme.md": "documentation",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Practical Comparison Between the CI/CD Platforms Azure DevOps and GitHub",
+    "year": 2025,
+    "venue": "Future Internet",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "devops_keywords": "software engineering practices",
+      "workflow_total_count": "software engineering practices",
+      "security_keywords": "security",
+      "test_keywords": "testing",
+      "code_quality_keywords": "code quality"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Software FAIRness, Documentation and Development Practices in Potsdam Researchers’ GitHub Repositories",
+    "year": 2025,
+    "venue": "Electronic Communications of the EASST",
+    "focus": "GitHub",
+    "repo_number": 1548,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "requirements.txt": "dependency analysis",
+      "test_keywords": "testing",
+      "workflow_total_count": "software engineering practices",
+      "used-ai-packages": "AI usage",
+      "languages": "software engineering practices",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub",
+    "year": 2015,
+    "venue": "ICSE",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "commits_messages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "contributors_count": "collaboration",
+      "workflow_total_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Recovering Commit Branch of Origin from GitHub Repositories",
+    "year": 2016,
+    "venue": "ICSME",
+    "focus": "GitHub",
+    "repo_number": 40,
+    "factors": {
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Studying the characteristics of AIOps projects on GitHub",
+    "year": 2023,
+    "venue": "Empirical Software Engineering",
+    "focus": "GitHub",
+    "repo_number": 119,
+    "factors": {
+      "gen_ai_keywords": "AI usage",
+      "ai_keywords": "AI usage",
+      "code_quality_keywords": "code quality",
+      "security_keywords": "security",
+      "test_keywords": "testing",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "size": "software engineering practices",
+      "languages": "software engineering practices",
+      "readme.md": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Comparative Analysis of GitHub Contributions Before and After An OSS Based Software Engineering Class",
+    "year": 2024,
+    "venue": "ITiCSE",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "languages": "software engineering practices",
+      "size": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Using GitHub Copilot for Test Generation in Python: An Empirical Study",
+    "year": 2024,
+    "venue": "AST",
+    "focus": "GitHub",
+    "repo_number": 7,
+    "factors": {
+      "gen_ai_keywords": "AI usage",
+      "code_gen_keywords": "AI usage",
+      "test_keywords": "testing",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "How accessibility affects other quality attributes of software? A case study of GitHub",
+    "year": 2024,
+    "venue": "Science of Computer Programming",
+    "focus": "GitHub",
+    "repo_number": 200,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "open_issues_count": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Community Curation in Open Dataset Repositories: Insights from Zenodo",
+    "year": 2017,
+    "venue": "Procedia Computer Science",
+    "focus": "Zenodo",
+    "repo_number": 3828,
+    "factors": {
+      "communities": "collaboration",
+      "license": "documentation",
+      "description": "documentation",
+      "resource_type": "documentation",
+      "doi_url": "documentation",
+      "html_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "GitHub Projects. Quality Analysis of Open-Source Software",
+    "year": 2014,
+    "venue": "SocInfo (LNCS 8851)",
+    "focus": "GitHub",
+    "repo_number": 2000,
+    "factors": {
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "description": "documentation",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Practice Meets Principle: Tracking Software and Data Citations to Zenodo DOIs",
+    "year": 2019,
+    "venue": "arXiv",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "doi_url": "documentation",
+      "html_url": "documentation",
+      "keywords": "documentation",
+      "resource_type": "documentation",
+      "stats_views": "software engineering practices",
+      "stats_downloads": "software engineering practices",
+      "communities": "collaboration",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "git Repo Exist": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Automatically Categorising GitHub Repositories by Application Domain",
+    "year": 2022,
+    "venue": "arXiv",
+    "focus": "GitHub",
+    "repo_number": 4948,
+    "factors": {
+      "description": "documentation",
+      "readme.md": "documentation",
+      "license": "documentation",
+      "topics": "documentation",
+      "contributors_count": "collaboration",
+      "languages": "software engineering practices",
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "workflow_total_count": "software engineering practices",
+      "commits_messages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Large-Scale Study of Programming Languages and Code Quality in GitHub",
+    "year": 2017,
+    "venue": "Communications of the ACM",
+    "focus": "GitHub",
+    "repo_number": 728,
+    "factors": {
+      "languages": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "stargazers_count": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Combining GitHub, Chat, and Peer Evaluation Data to Assess Individual Contributions to Team Software Development Projects",
+    "year": 2023,
+    "venue": "ACM Transactions on Computing Education",
+    "focus": "GitHub",
+    "repo_number": 23,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "open_issues_count": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Git Source Repository Analysis Tool Based on a Novel Branch-Oriented Approach",
+    "year": 2013,
+    "venue": "IEEE",
+    "focus": "GitHub",
+    "repo_number": 21,
+    "factors": {
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "languages": "software engineering practices",
+      "size": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Are Scientific Data Repositories Coping with Research Data Publishing?",
+    "year": 2016,
+    "venue": "Data Science Journal",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "keywords": "documentation",
+      "resource_type": "documentation",
+      "stats_views": "software engineering practices",
+      "stats_downloads": "software engineering practices",
+      "communities": "collaboration",
+      "html_url": "documentation",
+      "doi_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Using git metrics to measure students’ and teams’ code contributions in software development projects",
+    "year": 2021,
+    "venue": "CLEI Electronic Journal",
+    "focus": "GitHub",
+    "repo_number": 8,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "number_of_branches": "collaboration",
+      "branches_names": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Can we make it better? Assessing and improving quality of GitHub repositories",
+    "year": 2021,
+    "venue": "Singapore Management University (PhD Dissertation)",
+    "focus": "GitHub",
+    "repo_number": 21456,
+    "factors": {
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation",
+      "used-ai-packages": "AI usage",
+      "security_keywords": "security",
+      "requirements.txt": "dependency analysis",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Repository Approaches to Improving the Quality of Shared Data and Code",
+    "year": 2021,
+    "venue": "Data",
+    "focus": "Zenodo",
+    "repo_number": 92,
+    "factors": {
+      "description": "documentation",
+      "license": "documentation",
+      "keywords": "documentation",
+      "resource_type": "documentation",
+      "stats_views": "software engineering practices",
+      "stats_downloads": "software engineering practices",
+      "requirements.txt": "dependency analysis",
+      "readme.md": "documentation",
+      "html_url": "documentation",
+      "doi_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Tuning GitHub for SPL development: branching models & repository operations for product engineers",
+    "year": 2015,
+    "venue": "SPLC",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Ten Simple Rules for Taking Advantage of Git and GitHub",
+    "year": 2016,
+    "venue": "PLOS Computational Biology",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "readme.md": "documentation",
+      "description": "documentation",
+      "license": "documentation",
+      "workflow_total_count": "software engineering practices",
+      "has_issues": "software engineering practices",
+      "doi_url": "documentation",
+      "html_url": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "How do Software Engineering Researchers Use GitHub? An Empirical Study of Artifacts & Impact",
+    "year": 2024,
+    "venue": "SCAM",
+    "focus": "Both",
+    "repo_number": 309,
+    "factors": {
+      "stargazers_count": "collaboration",
+      "forks_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "readme.md": "documentation",
+      "license": "documentation",
+      "description": "documentation",
+      "workflow_total_count": "software engineering practices",
+      "html_url": "documentation",
+      "doi_url": "documentation",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "MetricMiner: Supporting Researchers in Mining Software Repositories",
+    "year": 2013,
+    "venue": "SBES",
+    "focus": "GitHub",
+    "repo_number": 317,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "number_of_branches": "collaboration",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "QScored: A Large Dataset of Code Smells and Quality Metrics",
+    "year": 2021,
+    "venue": "MSR",
+    "focus": "GitHub",
+    "repo_number": 86652,
+    "factors": {
+      "code_quality_keywords": "code quality",
+      "code_gen_keywords": "AI usage",
+      "commits_messages": "software engineering practices",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Curating GitHub for engineered software projects",
+    "year": 2017,
+    "venue": "Empirical Software Engineering",
+    "focus": "GitHub",
+    "repo_number": 1857423,
+    "factors": {
+      "license": "documentation",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "workflow_total_count": "software engineering practices",
+      "test_keywords": "testing",
+      "code_quality_keywords": "code quality",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "number_of_branches": "collaboration",
+      "branches_names": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "languages": "software engineering practices",
+      "size": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "An automated approach to assess the similarity of GitHub repositories",
+    "year": 2020,
+    "venue": "Software Quality Journal",
+    "focus": "GitHub",
+    "repo_number": 580,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "description": "documentation",
+      "license": "documentation",
+      "languages": "software engineering practices",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "contributors_count": "collaboration",
+      "requirements.txt": "dependency analysis"
+    }
+  },
+  {
+    "valid": true,
+    "title": "The Impact of Docker, DevOps, and GitHub on Collaborative Open Source Software Development",
+    "year": 2023,
+    "venue": "European Journal of Advances in Engineering and Technology",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "devops_keywords": "software engineering practices",
+      "workflow_total_count": "software engineering practices",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "forks_count": "collaboration",
+      "stargazers_count": "collaboration",
+      "has_issues": "software engineering practices",
+      "description": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Quality and Productivity Outcomes Relating to Continuous Integration in GitHub",
+    "year": 2015,
+    "venue": "FSE",
+    "focus": "GitHub",
+    "repo_number": 246,
+    "factors": {
+      "workflow_total_count": "software engineering practices",
+      "test_keywords": "testing",
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "number_of_branches": "collaboration",
+      "branches_names": "collaboration",
+      "open_issues_count": "software engineering practices",
+      "languages": "software engineering practices",
+      "size": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Task 2: How to make your code citable using GitHub and Zenodo (Gray literature)",
+    "year": 2019,
+    "venue": "Open Science MOOC",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "git Repo Exist": "software engineering practices",
+      "readme.md": "documentation",
+      "webhook": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Best practices in writing and sharing code (Gray literature)",
+    "year": 2024,
+    "venue": "Chapman University LibGuides",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "readme.md": "documentation",
+      "description": "documentation",
+      "license": "software engineering practices",
+      "codemeta.json": "software engineering practices",
+      "CITATION.cff": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Making code citable with Zenodo and GitHub (Gray literature)",
+    "year": 2015,
+    "venue": "Software Sustainability Institute Blog",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "creators_names": "collaboration",
+      "description": "documentation",
+      "grant acquired": "software engineering practices",
+      "git Repo Exist": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "FAIR How-Tos for data and software (Gray literature)",
+    "year": 2023,
+    "venue": "Carpentries Incubator",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "modified_updated_date": "software engineering practices",
+      "git Repo Exist": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "creators_affiliations": "collaboration",
+      "grant acquired": "software engineering practices",
+      "resource_type": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Zenodo Best Practices for the CIG Community (Gray literature)",
+    "year": 2018,
+    "venue": "Computational Infrastructure for Geodynamics",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "communities": "collaboration",
+      "description": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "creators_affiliations": "collaboration",
+      "grant acquired": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "git Repo Exist": "software engineering practices",
+      "keywords": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Software tools and practices for open and reproducible research (Gray literature)",
+    "year": 2025,
+    "venue": "Carpentries Incubator",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "readme.md": "documentation",
+      "description": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "keywords": "documentation",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "git Repo Exist": "software engineering practices",
+      "test_keywords": "testing",
+      "code_quality_keywords": "code quality",
+      "gen_ai_keywords": "AI usage",
+      "documentation_keywords": "documentation",
+      "workflow_total_count": "software engineering practices",
+      "requirements.txt": "dependency analysis"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Awesome Research Software Engineering FAIR  (Gray literature)",
+    "year": 2022,
+    "venue": "GitHub (hifis-net/awesome-rse-fair)",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "doi_url": "software engineering practices",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "git Repo Exist": "software engineering practices",
+      "codemeta.json": "documentation",
+      "CITATION.cff": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Best Practices for Sharing Research Software (Gray literature)",
+    "year": 2023,
+    "venue": "National Institutes of Health (NIH) Office of Data Science Strategy",
+    "focus": "Zenodo",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "grant acquired": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "html_url": "software engineering practices",
+      "creators_affiliations": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Scholarly Knowledge Extraction from Published Software Packages",
+    "year": 2022,
+    "venue": "arXiv",
+    "focus": "Both",
+    "repo_number": 52236,
+    "factors": {
+      "description": "documentation",
+      "languages": "software engineering practices",
+      "license": "software engineering practices",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_orcid": "collaboration",
+      "creators_affiliations": "collaboration",
+      "resource_type": "software engineering practices",
+      "modified_updated_date": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "git Repo Exist": "software engineering practices",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "Script language": "software engineering practices",
+      "used-ai-packages": "AI usage",
+      "gen_ai_keywords": "AI usage"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool",
+    "year": 2023,
+    "venue": "Scientific Data",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "languages": "software engineering practices",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_affiliations": "collaboration",
+      "updated_at": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "git Repo Exist": "software engineering practices",
+      "readme.md": "documentation",
+      "requirements.txt": "dependency analysis"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Introducing the FAIR Principles for research software",
+    "year": 2022,
+    "venue": "Scientific Data",
+    "focus": "Both",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "doi_url": "software engineering practices",
+      "description": "documentation",
+      "keywords": "documentation",
+      "creators_names": "collaboration",
+      "creators_affiliations": "collaboration",
+      "readme.md": "documentation",
+      "requirements.txt": "dependency analysis",
+      "git Repo Exist": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Nine best practices for research software registries and repositories",
+    "year": 2022,
+    "venue": "PeerJ Computer Science",
+    "focus": "Both",
+    "repo_number": 14,
+    "factors": {
+      "description": "documentation",
+      "keywords": "documentation",
+      "license": "software engineering practices",
+      "creators_names": "collaboration",
+      "creators_affiliations": "collaboration",
+      "git Repo Exist": "software engineering practices",
+      "doi_url": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "A Metadata-Based Ecosystem to Improve the FAIRness of Research Software",
+    "year": 2023,
+    "venue": "arXiv",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "readme.md": "documentation",
+      "Script language": "software engineering practices",
+      "requirements.txt": "dependency analysis",
+      "used-ai-packages": "AI usage",
+      "git Repo Exist": "software engineering practices",
+      "readme_length": "documentation"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Research Artifacts in Software Engineering Publications: Status and Trends",
+    "year": 2024,
+    "venue": "arXiv",
+    "focus": "Both",
+    "repo_number": 1487,
+    "factors": {
+      "description": "documentation",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "license": "software engineering practices",
+      "languages": "software engineering practices",
+      "Script language": "software engineering practices",
+      "updated_at": "software engineering practices",
+      "forks_count": "collaboration",
+      "has_issues": "collaboration",
+      "stargazers_count": "collaboration",
+      "code_quality_keywords": "code quality",
+      "test_keywords": "testing",
+      "code smell": "code quality",
+      "doi_url": "software engineering practices",
+      "git Repo Exist": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Githru: Visual Analytics for Understanding Software Development History Through Git Metadata Analysis",
+    "year": 2021,
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "authors": "collaboration",
+      "branches_names": "collaboration",
+      "number_of_branches": "collaboration",
+      "forks_count": "collaboration",
+      "has_issues": "collaboration",
+      "languages": "software engineering practices",
+      "code_quality_keywords": "code quality"
+    }
+  },
+  {
+    "valid": true,
+    "title": "PHANTOM: Curating GitHub for engineered software projects using time-series clustering",
+    "year": 2020,
+    "venue": "Empirical Software Engineering",
+    "focus": "GitHub",
+    "repo_number": 1786601,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "contributors_count": "collaboration",
+      "number_of_committers": "collaboration",
+      "number_of_authors": "collaboration",
+      "forks_count": "collaboration",
+      "languages": "software engineering practices"
+    }
+  },
+  {
+    "valid": true,
+    "title": "git2net - Mining Time-Stamped Co-Editing Networks from Large git Repositories",
+    "year": 2019,
+    "venue": "IEEE",
+    "focus": "GitHub",
+    "repo_number": 2,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "authors": "collaboration",
+      "branches_names": "collaboration",
+      "number_of_committers": "collaboration",
+      "languages": "software engineering practices",
+      "code_quality_keywords": "code quality"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Git Analytics: What Works, What Doesn’t & What to Track (Gray literature)",
+    "year": 2025,
+    "venue": "Axify Blog",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "pull request review comments": "collaboration",
+      "cycle time": "agile process",
+      "lead time for changes": "agile process",
+      "code_quality_keywords": "code quality",
+      "test_keywords": "testing",
+      "gen_ai_keywords": "AI usage",
+      "workflow_total_count": "software engineering practices",
+      "readme.md": "documentation",
+      "used-ai-packages": "AI usage"
+    }
+  },
+  {
+    "valid": true,
+    "title": "Productivity estimation for development teams based on Git metadata (Gray literature)",
+    "year": 2023,
+    "venue": "sieber&partners",
+    "focus": "GitHub",
+    "repo_number": 5751,
+    "factors": {
+      "commits_messages": "software engineering practices",
+      "number_of_authors": "collaboration",
+      "efficiency": "code quality",
+      "conflicts/merges ratio": "collaboration",
+      "active days": "software engineering practices",
+      "commit days": "software engineering practices",
+      "branches_names": "collaboration"
+    }
+  },
+  {
+    "valid": true,
+    "title": "DataDesc: A framework for creating and sharing technical metadata for research software interfaces",
+    "year": 2024,
+    "venue": "Patterns",
+    "focus": "GitHub",
+    "repo_number": 0,
+    "factors": {
+      "license": "software engineering practices",
+      "description": "documentation",
+      "keywords": "documentation",
+      "languages": "software engineering practices",
+      "readme.md": "documentation",
+      "readme_length": "documentation",
+      "git Repo Exist": "software engineering practices"
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

@@ -1,0 +1,276 @@
+{
+  "created": "2022-11-14T07:43:19.185813+00:00",
+  "modified": "2022-11-14T14:26:21.002442+00:00",
+  "id": 7264318,
+  "conceptrecid": "7264317",
+  "doi": "10.5281/zenodo.7264318",
+  "conceptdoi": "10.5281/zenodo.7264317",
+  "doi_url": "https://doi.org/10.5281/zenodo.7264318",
+  "metadata": {
+    "title": "Data for: Inferring population connectivity in Eastern Massasauga Rattlesnakes (Sistrurus catenatus) using landscape genetics",
+    "doi": "10.5281/zenodo.7264318",
+    "publication_date": "2022-11-14",
+    "description": "<p>Assessing the environmental factors that influence the ability of a threatened species to move through the landscape can be used to identify conservation actions that connect isolated populations. However, direct observations of species' movement are often limited making the development of alternate approaches necessary. Here we use landscape genetic analyses to assess the impact of landscape features on the movement of individuals between local populations of a threatened snake, the Eastern Massasauga Rattlesnake (<em>Sistrurus catenatus</em>). We linked connectivity data with habitat information from two landscapes of similar size: a large region of unfragmented habitat and a previously studied fragmented landscape consisting of isolated patches of habitat. We used this analysis to identify features of the landscape where modification or acquisition would enhance population connectivity in the fragmented region. We found evidence that current connectivity is impacted by both contemporary landcover features, especially roads, and inherent landscape features such as elevation. Next, we derived estimates of expected movement ability using a recently developed pedigree-based approach and Least Cost Paths through the unfragmented landscape. We then used our pedigree and resistance map to estimate resistance polygons of the potential extent for <em>S. catenatus</em> movement in the fragmented landscape. These polygons identify possible sites for future corridors connecting currently isolated populations in this landscape by linking the impact of future habitat modification or land acquisition to dispersal ability in this species. Overall, our study shows how modeling landscape resistance across differently fragmentated landscapes can identify habitat features that affect contemporary movement in threatened species in fragmented landscapes and how this information can be used to guide mitigation actions whose goal is to connect isolated populations.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Martin, Scott",
+        "affiliation": "The Ohio State University",
+        "orcid": "0000-0003-3311-6352"
+      },
+      {
+        "name": "Peterman, William",
+        "affiliation": "The Ohio State University"
+      },
+      {
+        "name": "Lipps, Gregory",
+        "affiliation": "The Ohio State University"
+      },
+      {
+        "name": "Gibbs, H. Lisle",
+        "affiliation": "The Ohio State University"
+      }
+    ],
+    "keywords": [
+      "Squamata reptiles",
+      "Population Genetics - Empirical",
+      "conservation genetics",
+      "Sistrurus catenatus"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5061/dryad.cfxpnvx4s",
+        "relation": "isSupplementedBy",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5061/dryad.hmgqnk9mf",
+        "relation": "isSourceOf",
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "title": "Software",
+      "type": "software"
+    },
+    "license": {
+      "id": "mit-license"
+    },
+    "communities": [
+      {
+        "id": "dryad"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7264317"
+          }
+        }
+      ]
+    },
+    "notes": "<p>R is required to access the scripts, and we recommend using RStudio. The package ResistanceGA also requires Julia to be installed with the current setting. All packages used were accessed either via cran repository or GitHub. </p><p>Funding provided by: National Science Foundation<br>Crossref Funder Registry ID: http://dx.doi.org/10.13039/501100008982<br>Award Number: DEB 1638872</p><p>Funding provided by: U.S. Fish and Wildlife Service<br>Crossref Funder Registry ID: http://dx.doi.org/10.13039/100000202<br>Award Number: </p><p>Funding provided by: Ohio Division of Wildlife*<br>Crossref Funder Registry ID: <br>Award Number: </p>",
+    "query_term": [
+      "Environmental factors"
+    ]
+  },
+  "title": "Data for: Inferring population connectivity in Eastern Massasauga Rattlesnakes (Sistrurus catenatus) using landscape genetics",
+  "links": {
+    "self": "https://zenodo.org/api/records/7264318",
+    "self_html": "https://zenodo.org/records/7264318",
+    "preview_html": "https://zenodo.org/records/7264318?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7264318",
+    "self_doi": "https://doi.org/10.5281/zenodo.7264318",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7264318",
+    "reserve_doi": "https://zenodo.org/api/records/7264318/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7264317",
+    "parent_html": "https://zenodo.org/records/7264317",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7264317",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7264317",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7264318/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7264318/sequence/default",
+    "files": "https://zenodo.org/api/records/7264318/files",
+    "media_files": "https://zenodo.org/api/records/7264318/media-files",
+    "archive": "https://zenodo.org/api/records/7264318/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7264318/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7264318/versions/latest",
+    "latest_html": "https://zenodo.org/records/7264318/latest",
+    "versions": "https://zenodo.org/api/records/7264318/versions",
+    "draft": "https://zenodo.org/api/records/7264318/draft",
+    "access_links": "https://zenodo.org/api/records/7264318/access/links",
+    "access_grants": "https://zenodo.org/api/records/7264318/access/grants",
+    "access_users": "https://zenodo.org/api/records/7264318/access/users",
+    "access_request": "https://zenodo.org/api/records/7264318/access/request",
+    "access": "https://zenodo.org/api/records/7264318/access",
+    "communities": "https://zenodo.org/api/records/7264318/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7264318/communities-suggestions",
+    "requests": "https://zenodo.org/api/records/7264318/requests"
+  },
+  "updated": "2022-11-14T14:26:21.002442+00:00",
+  "recid": "7264318",
+  "revision": 2,
+  "files": [
+    {
+      "id": "d10c925f-39f8-44e8-9b66-a86d83170eb1",
+      "key": "kd_pedigree_code.R",
+      "size": 9443,
+      "checksum": "md5:401177426041d078acfcee0e2a1d185b",
+      "links": {
+        "self": "https://zenodo.org/api/records/7264318/files/kd_pedigree_code.R/content"
+      }
+    },
+    {
+      "id": "f79f6eab-5daa-4151-9cdd-ca60e94cf507",
+      "key": "kd_lc_reclass_with_CDL.R",
+      "size": 28371,
+      "checksum": "md5:4d5c4c9e245e08080870eec3a8721583",
+      "links": {
+        "self": "https://zenodo.org/api/records/7264318/files/kd_lc_reclass_with_CDL.R/content"
+      }
+    },
+    {
+      "id": "f7ced900-9f2f-4917-a318-907cc7b7c864",
+      "key": "NE_OH_landcover_updates.R",
+      "size": 31871,
+      "checksum": "md5:7ab02b4e3092fbe2c2f742f265098193",
+      "links": {
+        "self": "https://zenodo.org/api/records/7264318/files/NE_OH_landcover_updates.R/content"
+      }
+    },
+    {
+      "id": "eee2f791-3e2c-40fd-9465-36a587989686",
+      "key": "all_sca_RGA_script.R",
+      "size": 1543,
+      "checksum": "md5:3d252af8fb7938479dcd96ab87a560fa",
+      "links": {
+        "self": "https://zenodo.org/api/records/7264318/files/all_sca_RGA_script.R/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "90070"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 52,
+    "unique_downloads": 31,
+    "views": 32,
+    "unique_views": 31,
+    "version_downloads": 52,
+    "version_unique_downloads": 31,
+    "version_unique_views": 31,
+    "version_views": 32
+  },
+  "state": "done",
+  "submitted": true,
+  "repo-profile": {
+    "software-engineering-efforts": {
+      "repo": null,
+      "dimensions": {
+        "community": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "ci": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "documentation": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "history": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "issues": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "license": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "unittest": {
+          "actual": 0.0,
+          "estimation": "low"
+        }
+      },
+      "raw": {
+        "total_sloc": 0,
+        "total_cloc": 0,
+        "test_sloc": 0,
+        "total_commits": 0,
+        "first_commit_date": "",
+        "last_commit_date": "",
+        "duration_months": 0.0,
+        "issue_events": 0
+      }
+    },
+    "ai-ml-ops": {
+      "repository": null,
+      "category": null,
+      "types": [],
+      "name": "",
+      "description": "",
+      "topics": [],
+      "timestamp": "2025-06-06T08:19:09.045754+00:00"
+    },
+    "code-gen-evaluation": {
+      "#AllFiles": 0,
+      "#Selected Recent Files": 0,
+      "#Human": 0,
+      "#AI": 0,
+      "ai_ratio": 0.0,
+      "estimation": "Low",
+      "analyzed-scripts": {}
+    },
+    "recommendation": "1. Increase community engagement by actively seeking out contributors and fostering a welcoming environment for collaboration.\n2. Implement a continuous integration process to automate testing and deployment, improving code quality and reliability.\n3. Improve documentation by providing clear and comprehensive guides for installation, usage, and contribution.\n4. Prioritize unit testing to ensure code reliability and facilitate future development and maintenance.\n5. Ensure that the software is properly licensed to clarify permitted uses and protect intellectual property rights.\n6. Enhance reusability by modularizing code and providing clear guidelines for incorporating the software into other projects.\n7. Consider implementing AI detection tools to identify potential issues and improve code quality.",
+    "citations": {
+      "citations_found": 0,
+      "citations": []
+    },
+    "fair-assessment": {
+      "subprinciple_assessment": {
+        "doi_present": "yes",
+        "subcomponent_identifiers": "yes",
+        "version_identifiers": "yes",
+        "rich_metadata_present": "no",
+        "metadata_includes_doi": "yes",
+        "metadata_accessible": "yes",
+        "software_retrievable": "yes",
+        "authentication_required": "not applicable",
+        "metadata_persistent": "yes",
+        "uses_standard_data_formats": "no",
+        "qualified_references_to_objects": "no",
+        "clear_license": "yes",
+        "provenance_with_orcid": "partial",
+        "qualified_references_to_software": "no",
+        "ci_or_community_standards": "no"
+      },
+      "principle_categories": {
+        "Findable": "High",
+        "Accessible": "Medium",
+        "Interoperable": "Low",
+        "Reusable": "Low"
+      },
+      "overall_fairness": "Low",
+      "git_url": "none found",
+      "howfairis_score": 0,
+      "howfairis_details": {
+        "repository": "no",
+        "license": "no",
+        "registry": "no",
+        "citation": "no",
+        "quality": "no"
+      }
+    }
+  }
+}

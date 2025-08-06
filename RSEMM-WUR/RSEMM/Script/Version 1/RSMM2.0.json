@@ -1,0 +1,153 @@
+{
+	"maturity_levels": {
+		"1": "Exploratory Coding",
+		"2": "AI-Assisted Exploratory Coding",
+		"3": "Research Software Engineering (RSE)",
+		"4": "AI in RSE (Augmented RSE)"
+	},
+	"focus_areas": [
+		{
+			"name": "Documentation",
+			"capabilities": [
+				{
+					"name": "Usage Documentation",
+					"practices": {
+						"1": "Documentation is minimal or missing. Zenodo_files_filenames may lack a README.md and the Zenodo_description is brief.",
+						"2": "A basic README is present in the repository (e.g., README.md found in Zenodo_files_filenames or in the GitHub repo) with simple usage instructions.",
+						"3": "Comprehensive usage documentation is provided via a detailed README, tutorials, and additional docs (or GitHub Wiki), clearly describing installation and usage.",
+						"4": "Documentation is enhanced with AI-generated explanations and continuously updated—integrating information from both Zenodo (e.g., detailed Zenodo_description) and GitHub (e.g., well-maintained Wiki)."
+					}
+				},
+				{
+					"name": "Developer Documentation",
+					"practices": {
+						"1": "Little to no inline comments or developer documentation. Code may be sparse and undocumented.",
+						"2": "Basic inline comments and minimal docstrings exist in the code; some documentation files (e.g., config.yml) are provided.",
+						"3": "Clear developer documentation is provided via detailed API docs, inline comments, and guides (e.g., documented configuration files such as config.yml or environment.yml are present).",
+						"4": "Advanced developer documentation is maintained—including auto-generated API docs and architecture diagrams (possibly enhanced using AI tools) that are integrated into the repository’s metadata."
+					}
+				}
+			]
+		},
+		{
+			"name": "Testing & Validation",
+			"capabilities": [
+				{
+					"name": "Continuous Integration (CI)",
+					"practices": {
+						"1": "No automated testing is evident. GitHub_workflow_total_count is absent or 0.",
+						"2": "Basic CI workflows are configured (e.g., at least one workflow named 'CI' is present in GitHub_workflows_names).",
+						"3": "Robust CI/CD pipelines are in place with multiple workflows covering unit tests, integration tests, and build validations.",
+						"4": "CI/CD is enhanced with AI-assisted test suggestions and dynamic validation (evidenced by regular workflow runs and integration of test keywords in commit messages)."
+					}
+				},
+				{
+					"name": "Test Coverage & Reporting",
+					"practices": {
+						"1": "There are no visible test reports or evidence of systematic testing (test_keywords rarely appear).",
+						"2": "Some tests are present as indicated by occasional test-related commit messages and basic test reports.",
+						"3": "A comprehensive test suite is maintained with automated coverage reports (e.g., badges on the GitHub repo) and detailed test logs.",
+						"4": "Testing is augmented with AI-driven analysis that optimizes the test suite and generates detailed, continuously updated reports."
+					}
+				}
+			]
+		},
+		{
+			"name": "Reproducibility",
+			"capabilities": [
+				{
+					"name": "Environment & Dependency Management",
+					"practices": {
+						"1": "No formal environment configuration is provided. Files like environment.yml or requirements.txt are missing.",
+						"2": "Basic environment configuration is available (e.g., environment.yml or config.yml appears in Zenodo_files_filenames or the repository).",
+						"3": "A well-defined environment is documented via files such as requirements.txt, Conda environment files, or Dockerfiles, ensuring reproducible setups.",
+						"4": "Automated environment snapshots and AI-curated dependency management are implemented, with metadata linking to reproducible builds (e.g., integration with Zenodo_description and automated CI reproducibility checks)."
+					}
+				},
+				{
+					"name": "Result Reproduction",
+					"practices": {
+						"1": "Reproduction is not documented; no scripts or instructions are provided.",
+						"2": "Some reproduction instructions exist (e.g., in Zenodo_description or a minimal README).",
+						"3": "Detailed reproduction instructions and scripts (or container images) are provided, enabling users to recreate results.",
+						"4": "Reproducibility is enforced via automated reproducibility CI tests and AI-driven validation that continuously checks for consistent results."
+					}
+				}
+			]
+		},
+		{
+			"name": "Collaboration & Process",
+			"capabilities": [
+				{
+					"name": "Version Control & Issue Tracking",
+					"practices": {
+						"1": "Basic Git usage is observed; repository may be private or lack public issue tracking (e.g., GitHub_has_issues true but with minimal activity).",
+						"2": "A public repository exists with basic issue tracking and version control (e.g., some branches, a modest open_issues_count, and GitHub_git_license provided).",
+						"3": "Robust version control practices are in place with semantic versioning, tagged releases, detailed changelogs, and active issue tracking (e.g., GitHub_contributors_count and GitHub_workflow_total_count are moderate to high).",
+						"4": "Collaboration is highly structured with AI-assisted pull request reviews, automated issue triaging, and clear governance documents (e.g., detailed contributor guidelines and active community engagement as seen in GitHub metadata such as stargazers_count, forks_count, and branches_names)."
+					}
+				},
+				{
+					"name": "Community Engagement & Governance",
+					"practices": {
+						"1": "Development is mostly solo with minimal community engagement; low stargazers_count, forks_count, and contributor metrics.",
+						"2": "There is some community activity (e.g., GitHub_has_issues and a moderate number of stargazers and forks), with occasional contributions.",
+						"3": "Active community engagement is visible with regular commits, multiple contributors, and clear governance (e.g., detailed CONTRIBUTING files and active discussions if available).",
+						"4": "The project exhibits highly engaged community metrics with AI-driven insights into contributor activity, automated recognition of community contributions, and integrated governance frameworks."
+					}
+				}
+			]
+		},
+		{
+			"name": "Licensing & Citation",
+			"capabilities": [
+				{
+					"name": "Licensing",
+					"practices": {
+						"1": "License information is missing or unclear in both Zenodo and GitHub metadata.",
+						"2": "A basic license is provided (e.g., Zenodo_license and GitHub_git_license are present, even if minimal).",
+						"3": "A clear, OSI‑approved license is documented with explicit conditions and versioning.",
+						"4": "License information is actively maintained and integrated with citation metadata (e.g., presence of CITATION.cff, DOI badges, and consistent license metadata across Zenodo and GitHub)."
+					}
+				},
+				{
+					"name": "Citation & Recognition",
+					"practices": {
+						"1": "No citation metadata is provided; the project lacks a DOI or citation file.",
+						"2": "Basic citation information is available (e.g., Zenodo_doi_url is provided in the metadata).",
+						"3": "Comprehensive citation metadata is provided (e.g., a CITATION.cff file exists and DOI links are clearly referenced in the README).",
+						"4": "Citation and impact metrics are integrated and tracked (e.g., Zenodo_stats_views/downloads and GitHub metrics are used to demonstrate the project’s impact)."
+					}
+				}
+			]
+		},
+		{
+			"name": "AI-Aware Practices",
+			"capabilities": [
+				{
+					"name": "AI Utilization Transparency",
+					"practices": {
+						"1": "There is no evidence of AI-assisted development in the metadata.",
+						"2": "Occasional mention of AI tools is found in GitHub_topics or commit messages (e.g., keywords like \"chatgpt\", \"copilot\", or from ai_keywords).",
+						"3": "The use of AI tools is documented in project documentation and commit messages, indicating some AI assistance in coding or documentation.",
+						"4": "The project explicitly tracks AI-assisted practices—such as maintaining versioned prompt logs or tagging AI-generated code—with integrated AI usage metrics reflected in the metadata (using fields such as ai_keywords and gen_ai_keywords)."
+					}
+				}
+			]
+		},
+		{
+			"name": "Impact & Visibility",
+			"capabilities": [
+				{
+					"name": "Project Impact & Popularity",
+					"practices": {
+						"1": "Low visibility: GitHub_stargazers_count, forks_count, and Zenodo_stats_views/downloads are very low.",
+						"2": "Moderate visibility: Community metrics are modest and some citations (e.g., Zenodo_doi_url present) are available.",
+						"3": "High visibility: The project shows significant community interest (e.g., higher stargazers, forks, and contributors) and clear citation metadata.",
+						"4": "Exceptional impact: The project exhibits robust metrics across both Zenodo and GitHub (e.g., high views, downloads, stargazers, forks, and active discussion), with automated impact tracking integrated into its metadata."
+					}
+				}
+			]
+		}
+	]
+}

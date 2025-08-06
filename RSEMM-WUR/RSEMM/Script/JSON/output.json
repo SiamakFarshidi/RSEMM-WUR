@@ -1,0 +1,43 @@
+{
+  "repo": "https://github.com/kirschner-lab/colony-counting.git",
+  "dimensions": {
+    "community": {
+      "actual": 1.0,
+      "estimation": "medium"
+    },
+    "ci": {
+      "actual": 0.0,
+      "estimation": "low"
+    },
+    "documentation": {
+      "actual": 0.0,
+      "estimation": "low"
+    },
+    "history": {
+      "actual": 13.584905660377359,
+      "estimation": "high"
+    },
+    "issues": {
+      "actual": 0.0,
+      "estimation": "low"
+    },
+    "license": {
+      "actual": 1.0,
+      "estimation": "high"
+    },
+    "unittest": {
+      "actual": 0.0,
+      "estimation": "low"
+    }
+  },
+  "raw": {
+    "total_sloc": 0,
+    "total_cloc": 0,
+    "test_sloc": 0,
+    "total_commits": 24,
+    "first_commit_date": "2023-05-03T23:19:17",
+    "last_commit_date": "2023-06-27T18:32:43",
+    "duration_months": 1.7666666666666666,
+    "issue_events": 0
+  }
+}

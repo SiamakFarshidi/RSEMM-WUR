@@ -1,0 +1,123 @@
+{
+    "Software Project Management": {
+        "Requirements": [
+            { "File issues in an issue tracker": 2 },
+            { "Act on feedback": 3 },
+            { "Manage requirements explicitly": 7 },
+            { "Perform release management": 8 },
+            { "Communicate roadmap": 10 }
+        ],
+        "Code Quality & Security": [
+            { "Provide a coding standard": 1 },
+            { "Conduct code reviews": 2 },
+            { "Implement continuous integration": 3 },
+            { "Provide executable tests": 4 },
+            { "Use crash reporting": 5 },
+            { "Conduct security reviews": 6 },
+            { "Measure project stability continuously": 7 },
+            { "Define code coverage targets": 8 },
+            { "Execute tests in a public workflow": 9 },
+            { "Follow an industry standard for security": 10 }
+        ],
+        "Communication & Collaboration": [
+            { "Store project in public repository with version control": 3 },
+            { "Use public communication platform": 7 },
+            { "Provide newsletter": 8 },
+            { "Provide community website": 10 }
+        ]    
+    },
+    "Research Software Management": {
+        "Impact Measurement": [
+            {"Define a clear audience for the project": 2},
+            {"Perform infrequent impact measurement": 3},
+            {"Evaluate whether the audience's goals are met": 7},
+            {"Perform continuous impact measurement": 9},
+            {"Explore new audiences regularly": 10}
+        ],
+        "Sustainability": [
+            {"Acquire temporary funding": 2},
+            {"Write software management plan": 4},
+            {"Obtain support from a national research software center": 7},
+            {"Acquire viable pathways for project sustainability": 8},
+            {"Secure continuous funding": 9},
+            {"Define end-of-life policy": 10}
+        ],
+        "Visibility": [
+            {"Make code citable": 1},
+            {"Enable indexing of project meta-data": 3},
+            {"Promote the project continuously": 4},
+            {"Publish in a research software directory": 5},
+            {"Acquire research software center acknowledgement": 6},
+            {"Enable indexing of the project's source code": 7},
+            {"Garner industrial partner adoption": 10}
+        ],
+        "Usage Costs & Ethics": [
+            {"Analyze privacy usage impact": 4},
+            {"Analyze ethical consequences of project use": 5},
+            {"Document the cost of running the application": 6},
+            {"Consider total energy consumption": 7}
+        ]
+    },
+    "Community Engagement": {
+        "Partnerships": [
+            {"Acknowledge partners and funding agencies on website": 4},
+            {"Develop advanced partnership model": 7}
+        ],
+        "Community": [
+            {"Impose community norms": 3},
+            {"Onboard researchers as part of the community": 4},
+            {"Develop code of conduct": 5},
+            {"Appoint support team": 6},
+            {"Organize community events": 7},
+            {"Provide front page chat support": 9},
+            {"Focus on diversity and inclusion": 10}
+        ],
+        "Developers": [
+            {"Make developer names and roles publicly available": 2},
+            {"Document how to join the team": 6},
+            {"Set maximum response time for pull requests": 8},
+            {"Provide access to developer training and skill development": 9}
+        ],
+        "Licensing": [
+            {"Select a license": 1},
+            {"Get institutional support for license choice": 3},
+            {"Evaluate license policy regularly": 8}
+        ]
+    },
+    "Software Adoptability": {
+        "Ease of Use": [
+            {"Provide a statement of purpose": 2},
+            {"Provide a simple how to use": 3},
+            {"Provide online tutorials": 6}
+        ],
+        "Documentation": [
+            {"Provide a read me file with project explanation": 2},
+            {"Provide a how-to guide": 3},
+            {"Provide a common example usage": 4},
+            {"Provide a documentation as repository/documentation wiki": 6},
+            {"Provide API documentation": 8}
+        ],
+        "Technology": [
+            {"Use common non-exotic or established technology": 2},
+            {"Facilitate integration into scientific workflow": 4},
+            {"Evaluate technology relevance regularly": 9}
+        ],
+        "Reproducibility": [
+            {"Provide instructions on how to put into research workflow": 2},
+            {"Provide instructions on how to make part of a replication package": 4},
+            {"Make part of standardized workflows": 5},
+            {"Make part of a replication package": 7}
+        ],
+        "Education": [
+            {"Develop generic educational materials": 5},
+            {"Organize training events in person": 9},
+            {"Make project part of an educational program": 10}
+        ],
+        "Deployability": [
+            {"Provide with standard deployment tools": 6},
+            {"Enable deployment on a wide range of technology": 8},
+            {"Provide coordination mechanisms for workflow distribution over different machines": 9},
+            {"Generate SBOM": 10}
+        ]
+    },    
+}

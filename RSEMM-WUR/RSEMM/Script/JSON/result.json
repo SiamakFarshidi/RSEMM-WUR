@@ -1,0 +1,27 @@
+{
+  "total_script_files": 43,
+  "selected_files": [
+    {
+      "path": "M-ARK_ARGoS/src/examples/behaviors/kilobot_ALF_dhtf.c",
+      "classification": "Human"
+    },
+    {
+      "path": "M-ARK_ARGoS/src/examples/behaviors/cre_ALF_flying.c",
+      "classification": "Human"
+    },
+    {
+      "path": "M-ARK_ARGoS/src/examples/behaviors/cre_ALF_ground.c",
+      "classification": "Human"
+    },
+    {
+      "path": "M-ARK_ARGoS/src/examples/behaviors/distribution_functions.c",
+      "classification": "Human"
+    },
+    {
+      "path": "M-ARK_ARGoS/src/examples/behaviors/distribution_functions.h",
+      "classification": "Human"
+    }
+  ],
+  "human_count": 5,
+  "ai_count": 0
+}

@@ -1,0 +1,1319 @@
+[
+  {
+    "paper_title": "Quantifying Architectural Debt via GitHub Compilation Scripts",
+    "year": "2017",
+    "url": "https://doi.org/10.1109/SMC.2017.8127443",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Software Architecture, Technical Debt, Quality Modeling",
+    "devops_activity": "Design Definition, Implementation & Build, Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "stars",
+        "usage": "Collected via GitHub API alongside static metrics to contextualize architectural complexity with repository popularity"
+      },
+      {
+        "feature": "forks",
+        "usage": "Queried via GitHub API to include in the CSV output, indicating community engagement"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Retrieved for each project to correlate architectural complexity with developer activity"
+      },
+      {
+        "feature": "issues",
+        "usage": "Fetched to include issue count in compiled results, showing maintenance concerns"
+      },
+      {
+        "feature": "languages",
+        "usage": "Obtained to record primary programming language in the final CSV report"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Compiling Static Software Metrics for Reliability and Maintainability from GitHub Repositories",
+    "year": "2020",
+    "url": "https://doi.org/10.1007/s10664-019-09712-x",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Software Quality, Static Analysis, Maintainability",
+    "devops_activity": "Design Definition, Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "cyclomatic complexity per file",
+        "usage": "Aggregated static analysis results from commits and correlated with GitHub metadata"
+      },
+      {
+        "feature": "code smell counts",
+        "usage": "Used static analysis tools to count code smells and supplemented with GitHub API data"
+      },
+      {
+        "feature": "primary language",
+        "usage": "Fetched via GitHub API to contextualize static metric results across languages"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Study the Correlation between the Readme File of GitHub Projects and Their Popularity",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.jss.2023.111806",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Software Engineering, Repository Popularity, Documentation Studies",
+    "devops_activity": "Feedback & Continuous Improvement, Implementation & Build",
+    "github_metadata_features": [
+      {
+        "feature": "README.md",
+        "usage": "Analyzed content and structure (e.g., lists, links, badges, images, headings) to study correlation with popularity"
+      },
+      {
+        "feature": "commits",
+        "usage": "Analyzed commit frequency and update patterns for README.md to study correlation with popularity"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Used to determine repository popularity by analyzing contributor counts (along with stars, forks, etc.)"
+      },
+      {
+        "feature": "stars",
+        "usage": "Used as the primary proxy for repository popularity in correlation analysis"
+      },
+      {
+        "feature": "forks",
+        "usage": "Used as a supporting indicator for popularity, correlated with other features like stars"
+      },
+      {
+        "feature": "watches",
+        "usage": "Collected as metadata to analyze correlation with popularity"
+      },
+      {
+        "feature": "license",
+        "usage": "Used as a controlling factor in the study to mitigate confounding effects"
+      },
+      {
+        "feature": "topics",
+        "usage": "Used as a controlling factor to account for domain-specific influences on popularity"
+      },
+      {
+        "feature": "size",
+        "usage": "Used as a controlling factor in correlation analysis with popularity"
+      },
+      {
+        "feature": "language",
+        "usage": "Used as a controlling factor for programming language in the correlation analysis"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "How Accessibility Affects Other Quality Attributes of Software? A Case Study of GitHub",
+    "year": "2023",
+    "url": "https://doi.org/10.1007/s10664-020-09916-6",
+    "relevance": "relevant",
+    "topic": "both",
+    "domain": "Software Accessibility, Quality Attributes, Empirical Software Engineering",
+    "devops_activity": "Verification (Continuous Testing), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "issues",
+        "usage": "Analyzed accessibility-related issue labels to study their interaction with other quality issues"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Examined PRs tagged with accessibility fixes to understand developer remediation practices"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Used contributor activity to correlate accessibility fixes with team engagement"
+      },
+      {
+        "feature": "stars",
+        "usage": "Used as a proxy for project popularity when comparing accessible vs. non-accessible repositories"
+      },
+      {
+        "feature": "forks",
+        "usage": "Measured community interest in repositories with accessibility improvements"
+      },
+      {
+        "feature": "license",
+        "usage": "Included as metadata to control for license-related confounding factors"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "A Systematic Mapping Study of Software Development With GitHub",
+    "year": "2017",
+    "url": "https://doi.org/10.1109/MSR.2017.21",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Empirical Software Engineering, GitHub Usage, Collaboration Practices",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "issues",
+        "usage": "Surveyed issue tracker usage across sampled GitHub projects to understand adoption rates"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Analyzed pull request patterns to characterize code review and integration workflows"
+      },
+      {
+        "feature": "forks",
+        "usage": "Measured for each project to infer collaboration models"
+      },
+      {
+        "feature": "stars",
+        "usage": "Used to identify popular repositories in the mapping study"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Counted to study community engagement metrics"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Are Scientific Data Repositories Coping with Research Data Publishing?",
+    "year": "2016",
+    "url": "https://doi.org/10.5334/dsj-2016-006",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Data Management, FAIR Data, Repository Studies",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Extracted to track dataset references and measure repository FAIR compliance"
+      },
+      {
+        "feature": "title",
+        "usage": "Used to identify datasets in repository assessments"
+      },
+      {
+        "feature": "authors",
+        "usage": "Collected to analyze contributor patterns across data repositories"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo NOT used directly; primary focus is on repository metadata, not on Zenodo-mediated FAIRness"
+  },
+  {
+    "paper_title": "Data Descriptor: FAIR Degrees Assessment in Agriculture Datasets Using the F-UJI Tool",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.ecoinf.2023.102126",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "FAIR Data Assessment, Agriculture Informatics",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Recorded for dataset entries to evaluate findability and persistence"
+      },
+      {
+        "feature": "license",
+        "usage": "Used to assess reuse rights in FAIRness computation"
+      },
+      {
+        "feature": "title",
+        "usage": "Collected to map datasets to FAIR criteria"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo NOT used directly; FAIRness evaluated via F-UJI, not repository deposit"
+  },
+  {
+    "paper_title": "The DataDesc Ecosystem: Standardizing Research Software Descriptions",
+    "year": "2023",
+    "url": "https://doi.org/10.3233/DS-210053",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Software Metadata, FAIR Software",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Used to tie software packages to published metadata for FAIR evaluation"
+      },
+      {
+        "feature": "title",
+        "usage": "Used to identify software artifacts in DataDesc pipelines"
+      },
+      {
+        "feature": "authors",
+        "usage": "Collected to track provenance in metadata exchange"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo is referenced as a publication platform but not used directly for FAIR assessment"
+  },
+  {
+    "paper_title": "Automated Testing for DevOps in GitHub Environment: A Comprehensive Analysis",
+    "year": "2021",
+    "url": "https://doi.org/10.1109/MSR.2021.00035",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Continuous Testing, CI/CD, GitHub Actions",
+    "devops_activity": "Integration (Continuous Integration), Verification (Continuous Testing)",
+    "github_metadata_features": [
+      {
+        "feature": "GitHub Actions workflows",
+        "usage": "Enumerated number and types of CI workflows to characterize testing coverage"
+      },
+      {
+        "feature": "status badges",
+        "usage": "Collected from READMEs to measure visibility of CI results"
+      },
+      {
+        "feature": "test files",
+        "usage": "Counted test scripts under /test to quantify test suite size"
+      },
+      {
+        "feature": "commits",
+        "usage": "Analyzed commit history to identify test-triggered CI runs"
+      },
+      {
+        "feature": "issues labeled 'test failure'",
+        "usage": "Extracted to study frequency of test-related bug reports"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Automated Testing for DevOps in GitHub Environment: A Comprehensive Analysis",
+    "year": "2023",
+    "url": "https://doi.org/10.1109/ICAMIMIA60881.2023.10427702",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "CI/CD, Test Automation, GitHub Actions",
+    "devops_activity": "Verification (Continuous Testing), Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "GitHub Action test workflows",
+        "usage": "Enumerated and classified CI workflows that execute tests across sampled repositories"
+      },
+      {
+        "feature": "test case names",
+        "usage": "Parsed test filenames and functions to compute test suite size and traceability"
+      },
+      {
+        "feature": "status badges",
+        "usage": "Extracted from README to measure prevalence of test-status visibility"
+      },
+      {
+        "feature": "test environment labels",
+        "usage": "Collected environment matrices (e.g., ubuntu-latest, windows-latest) to analyze cross-platform coverage"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "A Git Source Repository Analysis Tool Based on a Novel Branch-Oriented Approach",
+    "year": "2020",
+    "url": "https://doi.org/10.1109/ICSME48290.2020.00047",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Repository Mining, Branching Strategies, Tool Support",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "branches",
+        "usage": "Analyzed branch counts and patterns to support the branch-oriented metric calculations"
+      },
+      {
+        "feature": "commits",
+        "usage": "Extracted commit metadata per branch to calculate branch longevity and merge frequency"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Mapped contributors to branches to study branching collaboration"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Linked PRs to branches to analyze branch integration workflows"
+      },
+      {
+        "feature": "tags",
+        "usage": "Used to identify release points in branch histories"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Characteristics of README Files in 5,000 GitHub Repositories: A Large-Scale Empirical Study",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.jss.2023.111100",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Repository Documentation, Repository Quality, Empirical Software Engineering",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "README.md",
+        "usage": "Collected from each repository’s default branch via GitHub API to analyze presence, size, and markdown elements across 5,000 projects"
+      },
+      {
+        "feature": "stars",
+        "usage": "Retrieved to correlate README presence and richness with repository popularity"
+      },
+      {
+        "feature": "forks",
+        "usage": "Used as a proxy for community engagement, compared against README completeness metrics"
+      },
+      {
+        "feature": "issues",
+        "usage": "Total issue count per repository fetched to examine whether README quality correlates with maintenance burden"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Number of PRs obtained to study connection between documentation improvements and merging activity"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Counted contributors from GitHub API to analyze team size effects on README quality"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "A Comparative Study of CI/CD Platforms: GitHub Actions vs. Jenkins vs. GitLab CI",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.jss.2023.112000",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Continuous Integration/Delivery, Tool Comparison, Platform Evaluation",
+    "devops_activity": "Integration (Continuous Integration), Transition (Release & Initial Deployment)",
+    "github_metadata_features": [
+      {
+        "feature": ".github/workflows/*.yml",
+        "usage": "Parsed workflow definitions to count number and type of CI jobs under GitHub Actions"
+      },
+      {
+        "feature": "CI status badges",
+        "usage": "Extracted from README to measure visibility and adoption of CI on GitHub"
+      },
+      {
+        "feature": "repository tags",
+        "usage": "Collected to compare release tagging practices across platforms"
+      },
+      {
+        "feature": "releases",
+        "usage": "Counted GitHub Release objects to evaluate release frequency under GitHub Actions"
+      },
+      {
+        "feature": "actions run duration",
+        "usage": "Calculated average GitHub Actions run times via API to compare performance with Jenkins and GitLab CI"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Enhancing Software Testing Through Automation: An Empirical Analysis of GitHub Projects",
+    "year": "2023",
+    "url": "https://doi.org/10.1016/j.jss.2023.112345",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Test Automation, Continuous Testing, GitHub Actions",
+    "devops_activity": "Verification (Continuous Testing), Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "GitHub Action test jobs",
+        "usage": "Identified and counted test stages in workflow YAMLs to determine automation coverage"
+      },
+      {
+        "feature": "test suite size",
+        "usage": "Measured by counting files in /test directory across projects to correlate with CI duration"
+      },
+      {
+        "feature": "failure rate",
+        "usage": "Calculated percentage of failed test runs over last 100 workflow executions via API"
+      },
+      {
+        "feature": "test environment matrix",
+        "usage": "Parsed matrix configurations (e.g., ubuntu-latest, windows-latest) in YAML to quantify multi-platform testing"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Understanding Code Review Automation: A Study of GitHub Pull Request Bots",
+    "year": "2017",
+    "url": "https://doi.org/10.1016/j.infsof.2017.07.008",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Code Review, Automation Bots, Pull Request Analysis",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "pull request labels",
+        "usage": "Collected labels such as 'bot:ci' or 'bot:review' to identify PRs processed by bots"
+      },
+      {
+        "feature": "review comments",
+        "usage": "Counted comments generated by bots vs. humans to measure automation level"
+      },
+      {
+        "feature": "merge latency",
+        "usage": "Measured time from PR creation to merge for bot-reviewed PRs compared to human-reviewed ones"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Measuring Dependency Update Practices: Are Your Dependencies Code Reviewed?",
+    "year": "2022",
+    "url": "https://doi.org/10.1109/ICSME.2021.00002",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Dependency Management, Security, Code Review Coverage",
+    "devops_activity": "Integration (Continuous Integration), Verification (Continuous Testing)",
+    "github_metadata_features": [
+      {
+        "feature": "dependency-update pull requests",
+        "usage": "Filtered PRs containing 'dependabot' or version bump keywords to gather update frequency"
+      },
+      {
+        "feature": "review comments per dependency PR",
+        "usage": "Counted comments to determine review thoroughness on each dependency update"
+      },
+      {
+        "feature": "linked issues",
+        "usage": "Extracted issue IDs linked to dependency PRs to study traceability of updates"
+      }
+    ],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Provided for the dataset of dependency updates to enable reproducibility"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo was used to publish the full dataset of dependency-update PRs, improving findability and reuse of the research artifacts"
+  },
+  {
+    "paper_title": "Branch Use in Practice: A Large-Scale Empirical Study of 2,923 Projects on GitHub",
+    "year": "2020",
+    "url": "https://doi.org/10.1145/3377811.3380360",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Branching Strategies, Workflow Practices, Empirical Software Engineering",
+    "devops_activity": "Implementation & Build, Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "branch count",
+        "usage": "Counted total branches in each repository to analyze branching patterns"
+      },
+      {
+        "feature": "merge frequency",
+        "usage": "Calculated average number of merges per branch per month to study integration behavior"
+      },
+      {
+        "feature": "branch lifetime",
+        "usage": "Measured duration from branch creation to merge/close to understand development speed"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Can We Make It Better? Assessing and Improving Quality of GitHub Repositories",
+    "year": "2018",
+    "url": "https://doi.org/10.1145/3196321.3196337",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Repository Quality, Empirical Metrics, Best Practices",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "README completeness score",
+        "usage": "Computed via a checklist of required elements (e.g., badges, installation) for each repository"
+      },
+      {
+        "feature": "issue response time",
+        "usage": "Calculated average latency between issue opening and first response to gauge maintainability"
+      },
+      {
+        "feature": "pull request merge latency",
+        "usage": "Measured time from PR creation to merge to evaluate integration efficiency"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Continuous Integration and Delivery for Internet of Things in Embedded Systems Projects",
+    "year": "2017",
+    "url": null,
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "CI/CD, Internet of Things, Embedded Systems",
+    "devops_activity": "Integration (Continuous Integration), Transition (Release & Initial Deployment)",
+    "github_metadata_features": [
+      {
+        "feature": ".travis.yml, .github/workflows",
+        "usage": "Illustrated example configurations; recommendations to adapt CI for embedded artifacts"
+      },
+      {
+        "feature": "artifact storage paths",
+        "usage": "Described use of GitHub Releases for firmware binaries to support OTA updates"
+      },
+      {
+        "feature": "tags",
+        "usage": "Highlighted use of tags for versioning IoT releases in GitHub to manage distribution"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Frequency and Evolution of Links to Academic Papers in GitHub Repositories",
+    "year": "2022",
+    "url": "https://doi.org/10.1016/j.jss.2022.111117",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Mining Software Repositories, Traceability, Documentation Practices",
+    "devops_activity": "Feedback & Continuous Improvement, Transition (Release & Initial Deployment)",
+    "github_metadata_features": [
+      {
+        "feature": "links in README.md",
+        "usage": "Scanned over 20,000 README files to count HTTP/HTTPS links pointing to academic publishers or arXiv"
+      },
+      {
+        "feature": "URL response status",
+        "usage": "Checked HTTP status codes (200, 404) to measure evolution and decay of paper links"
+      },
+      {
+        "feature": "repository creation date",
+        "usage": "Collected to correlate link frequency with repo age"
+      },
+      {
+        "feature": "repository topics",
+        "usage": "Analyzed topics (e.g., 'machine-learning') to categorize domains referencing papers"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Patterns: Automated Generation of Academic Paper-Relevant Repository Metrics",
+    "year": "2024",
+    "url": "https://doi.org/10.1016/j.patcog.2024.101064",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Repository Mining, Data Descriptor, Automated Metric Extraction",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "repository URLs extracted from DataDesc",
+        "usage": "Programmatically extracted GitHub URLs from DataDesc ecosystem to link software to metadata"
+      },
+      {
+        "feature": "GitHub API metadata (stars, forks, watchers)",
+        "usage": "Automated collection of standard repo metrics for each software entry in DataDesc database"
+      },
+      {
+        "feature": "issue count",
+        "usage": "Included as part of automated metrics to characterize maintenance activity"
+      }
+    ],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Mapped each DataDesc entry to a Zenodo DOI to link software packages to FAIR-compliant records"
+      },
+      {
+        "feature": "title",
+        "usage": "Used for matching DataDesc entries to Zenodo records to enhance metadata completeness"
+      },
+      {
+        "feature": "authors",
+        "usage": "Extracted author lists from Zenodo to track provenance of research software"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo DOIs were used to ensure FAIR-compliance of research software metadata in the DataDesc ecosystem"
+  },
+  {
+    "paper_title": "D4.4 FAIR-IMPACT Guidelines for Research Software",
+    "year": "2023",
+    "url": null,
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Software FAIR Guidelines, Community Best Practices",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Cited as part of guidelines recommending software publication to Zenodo for persistent identification"
+      },
+      {
+        "feature": "license",
+        "usage": "Used to demonstrate best practices for granting reuse rights in FAIR software deposits"
+      }
+    ],
+    "zenodo_fairness_purpose": "Specifies how Zenodo should be used to improve findability, accessibility, interoperability, and reusability of research software"
+  },
+  {
+    "paper_title": "Developer Behavior in Social Coding Platforms: An Empirical Study of GitHub",
+    "year": "2012",
+    "url": null,
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Developer Collaboration, Issue Tracking, Pull Request Behavior",
+    "devops_activity": "Operation (Deploy & Monitor), Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "issue comments",
+        "usage": "Analyzed frequency and content of comments to study social interaction patterns"
+      },
+      {
+        "feature": "pull request activity",
+        "usage": "Collected PR creation and merge events to characterize review cycles"
+      },
+      {
+        "feature": "fork count",
+        "usage": "Used as a proxy for project popularity in social coding contexts"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Extracting Enhanced Artificial Intelligence Model Metadata from Software Repositories",
+    "year": "2022",
+    "url": "https://doi.org/10.1007/s10664-022-10206-6",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "AI Model Metadata Extraction, Software Repository Mining",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "repository URL",
+        "usage": "Cloned GitHub repositories containing AI models to extract code, documentation, and configuration files for metadata extraction"
+      },
+      {
+        "feature": "commit history",
+        "usage": "Processed all commits in each repository to capture evolution of model-specific files (e.g., model definition scripts, training logs)"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Extracted list of contributors per repository to correlate developer activity with completeness of AI model metadata"
+      },
+      {
+        "feature": "tags",
+        "usage": "Used Git tags to identify release points for trained models or model zoo examples in repositories"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Studying the Characteristics of AIOps Projects on GitHub",
+    "year": "2023",
+    "url": "https://doi.org/10.1007/s10664-023-10382-z",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "AIOps, Repository Mining, Quality Assessment",
+    "devops_activity": "Operation (Deploy & Monitor), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "stars",
+        "usage": "Retrieved star counts from each AIOps project to assess popularity compared to baseline ML and general-purpose projects"
+      },
+      {
+        "feature": "forks",
+        "usage": "Collected fork counts to evaluate community engagement and collaboration patterns"
+      },
+      {
+        "feature": "programming languages",
+        "usage": "Extracted primary language metadata to categorize AIOps projects by tech stack and compare with baselines"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Counted PRs to measure development activity and external contributions over time"
+      },
+      {
+        "feature": "issues",
+        "usage": "Analyzed opened and closed issue counts to assess code quality and maintenance overhead"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "An Automated Approach to Assess the Similarity of GitHub Repositories",
+    "year": "2020",
+    "url": "https://doi.org/10.1007/s11219-019-09483-0",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Software Repository Similarity, Mining Software Repositories",
+    "devops_activity": "Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "issue comments",
+        "usage": "Mined issue comments and metadata to build a graph model representing communication patterns for similarity computation"
+      },
+      {
+        "feature": "external dependencies",
+        "usage": "Extracted dependency declarations (e.g., Maven, Gradle) to compare project usage of libraries for similarity scoring"
+      },
+      {
+        "feature": "README content",
+        "usage": "Parsed README.md files to capture project descriptions and keywords for text-based similarity metrics"
+      },
+      {
+        "feature": "API usage patterns",
+        "usage": "Analyzed import statements and API calls to quantify functional similarity between projects"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Introducing the FAIR Principles for Research Software",
+    "year": "2022",
+    "url": "https://doi.org/10.1038/s41597-022-01710-x",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Software FAIRness, Metadata Standards",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Recommended as a mandatory metadata field for research software deposits to ensure persistent identification"
+      },
+      {
+        "feature": "title",
+        "usage": "Used to standardize research software naming conventions for findability and indexing"
+      },
+      {
+        "feature": "authors",
+        "usage": "Collected to track provenance, attribution, and facilitate citation of research software"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo is cited as a platform for hosting FAIR-compliant research software, improving findability and accessibility"
+  },
+  {
+    "paper_title": "State‐of‐the‐Practice in Quality Assurance in Java‐Based Open Source Software Development",
+    "year": "2024",
+    "url": "https://doi.org/10.1002/spe.3321",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Software Quality Assurance, Continuous Testing, CI/CD, Code Review",
+    "devops_activity": "Verification (Continuous Testing), Integration (Continuous Integration), Operation (Deploy & Monitor), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "GitHub Actions workflows",
+        "usage": "Detected presence of CI workflows in .github/workflows to quantify CI adoption across Java-based projects"
+      },
+      {
+        "feature": "action status badges",
+        "usage": "Extracted status badges from README to measure visibility of automated tests and build status"
+      },
+      {
+        "feature": "Automated Static Analysis Tool (ASAT) integrations",
+        "usage": "Identified usage of ASAT apps (e.g., Checkstyle, PMD) through GitHub Actions or external CI logs to assess static analysis adoption"
+      },
+      {
+        "feature": "pull request review counts",
+        "usage": "Counted number of review comments on pull requests to measure code review intensity"
+      },
+      {
+        "feature": "test coverage reports",
+        "usage": "Parsed code coverage badges and reports to evaluate extent of test suite usage and effectiveness"
+      },
+      {
+        "feature": "buildability (compilable snapshots)",
+        "usage": "Attempted to build project snapshots using Maven/Gradle to assess build automation and failure rates"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "A Comparative Analysis of GitHub Contributions Before and After An OSS Based Software Engineering Class",
+    "year": "2024",
+    "url": "https://doi.org/10.1145/3649217.3653535",
+    "relevance": "irrelevant",
+    "topic": "both",
+    "domain": "Software Engineering Education, GitHub Activity Analysis",
+    "devops_activity": null,
+    "github_metadata_features": [
+      {
+        "feature": "commit count",
+        "usage": "Collected student commit data from GitHub profiles to compare pre- and post-class activity levels"
+      },
+      {
+        "feature": "pull request count",
+        "usage": "Analyzed number of pull requests opened by students to gauge engagement in collaborative development"
+      },
+      {
+        "feature": "repository creation",
+        "usage": "Tracked new repository creation by students during the semester to assess initiation of independent OSS work"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "The Impact of Docker, DevOps, and GitHub on Collaborative Open Source Software Development",
+    "year": "2023",
+    "url": "https://doi.org/10.5281/zenodo.11079633",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "DevOps Practices, Docker Adoption, Collaborative Development",
+    "devops_activity": "Implementation & Build, Integration (Continuous Integration), Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "Dockerfile presence",
+        "usage": "Detected Dockerfile in root directories to measure containerization adoption among projects"
+      },
+      {
+        "feature": "CI/CD badges",
+        "usage": "Extracted CI/CD status badges (e.g., Travis-CI, GitHub Actions) from README to assess automation visibility"
+      },
+      {
+        "feature": "pull request counts",
+        "usage": "Counted pull requests to measure collaborative contribution rates before and after Docker/DevOps adoption"
+      },
+      {
+        "feature": "issue resolution time",
+        "usage": "Analyzed issue closing timestamps to evaluate impact of DevOps practices on responsiveness"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Using GitHub in Large Software Engineering Classes: An Exploratory Case Study",
+    "year": "2020",
+    "url": "https://doi.org/10.1080/08993408.2019.1696168",
+    "relevance": "irrelevant",
+    "topic": "both",
+    "domain": "Software Engineering Education, Collaborative Tools",
+    "devops_activity": null,
+    "github_metadata_features": [
+      {
+        "feature": "commit history",
+        "usage": "Analyzed student repositories’ commit timelines to study collaboration patterns and individual contributions"
+      },
+      {
+        "feature": "pull request usage",
+        "usage": "Counted and categorized pull requests to assess code review practices and team workflow adoption"
+      },
+      {
+        "feature": "issue tracker engagement",
+        "usage": "Monitored student issue creation and comments to evaluate communication effectiveness within teams"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Using GitHub Copilot for Test Generation in Python: An Empirical Study",
+    "year": "2024",
+    "url": "https://doi.org/10.1145/3644032.3644443",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Automated Test Generation, AI-assisted Development",
+    "devops_activity": "Verification (Continuous Testing)",
+    "github_metadata_features": [
+      {
+        "feature": "existing test suite context",
+        "usage": "Generated tests within existing test files (.py) using Copilot and measured percentage of syntactically correct, passing tests"
+      },
+      {
+        "feature": "test file presence",
+        "usage": "Identified test files in repositories (/tests directory) to determine baseline test coverage before Copilot generation"
+      },
+      {
+        "feature": "commit triggers",
+        "usage": "Tracked whether generated tests triggered CI pipelines (e.g., GitHub Actions) and passed existing CI checks"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Quality and Productivity Outcomes Relating to Continuous Integration in GitHub",
+    "year": "2015",
+    "url": null,
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Continuous Integration, Pull Request Management, Quality Metrics",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "pull request acceptance rate",
+        "usage": "Compared PR acceptance rates before and after CI adoption to measure CI’s impact on integration productivity"
+      },
+      {
+        "feature": "closed issue counts",
+        "usage": "Analyzed frequency of issue closings to assess bug resolution rates post-CI implementation"
+      },
+      {
+        "feature": "stars",
+        "usage": "Used as a control variable to account for project popularity in regression models evaluating CI outcomes"
+      },
+      {
+        "feature": "forks",
+        "usage": "Included as a measure of community engagement to isolate CI’s effect on productivity"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "MetricMiner: Supporting Researchers in Mining Software Repositories",
+    "year": "2016",
+    "url": null,
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Mining Software Repositories, Tool Support, Empirical Software Engineering",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "repository URL (GitHub)",
+        "usage": "Researchers supply GitHub repo URLs to clone and process metadata automatically upon project insertion"
+      },
+      {
+        "feature": "commits",
+        "usage": "MetricMiner clones each GitHub repository and processes its entire commit history for metrics calculation"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Extracted from GitHub to compute social metrics and support queries on number of committers per project"
+      },
+      {
+        "feature": "code metrics (e.g., cyclomatic complexity)",
+        "usage": "Computed via static analysis on code clones from GitHub; results associated with GitHub metadata for each commit"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Nine Best Practices for Research Software Registries and Repositories",
+    "year": "2022",
+    "url": "https://doi.org/10.7717/peerj-cs.1023",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Software Registries, Repository Policies, FAIR Research Software",
+    "devops_activity": null,
+    "github_metadata_features": [
+      {
+        "feature": "GitHub source code repository",
+        "usage": "Used as an example of community-driven software registries; policies reference GitHub hosting practices"
+      }
+    ],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Recommended for software deposits in Zenodo to ensure persistent identification as part of FAIR guidelines"
+      },
+      {
+        "feature": "license",
+        "usage": "Emphasized as a required metadata field in Zenodo to guarantee clear reuse rights and support FAIRness"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo DOIs and license requirements are presented to improve findability, accessibility, interoperability, and reusability of research software"
+  },
+  {
+    "paper_title": "On the Use of GitHub Actions in Software Development Repositories",
+    "year": "2022",
+    "url": "https://doi.org/10.1109/ICSME55016.2022.00029",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Continuous Integration/Delivery, Workflow Automation, GitHub Actions",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": ".github/workflows/*.yml",
+        "usage": "Parsed workflow files to count and categorize CI/CD jobs defined per repository"
+      },
+      {
+        "feature": "actions marketplace reuse",
+        "usage": "Analyzed references to reusable actions in workflow YAMLs to quantify action reuse frequency"
+      },
+      {
+        "feature": "workflow trigger types",
+        "usage": "Extracted event triggers (e.g., push, pull_request) from workflow definitions to determine automation practices"
+      },
+      {
+        "feature": "security/versioning metadata",
+        "usage": "Studied version pinning and security advisories within action references to evaluate versioning practices"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Open Source–Style Collaborative Development Practices in Commercial Projects Using GitHub",
+    "year": "2015",
+    "url": "https://doi.org/10.1109/ICSE.2015.74",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Collaboration Practices, Pull-Request Workflow, Social Coding",
+    "devops_activity": "Integration (Continuous Integration), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "forks",
+        "usage": "Analyzed forking frequency to identify pull-based workflows and branching practices in commercial GitHub repos"
+      },
+      {
+        "feature": "pull requests",
+        "usage": "Collected PR creation and merge events to measure code review latency and integration cadence"
+      },
+      {
+        "feature": "watchers",
+        "usage": "Used as a proxy for awareness and transparency among commercial teams, comparing with open-source norms"
+      },
+      {
+        "feature": "issue comments",
+        "usage": "Examined frequency and content of comments on issues to study communication patterns in proprietary repos"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "QScored: A Large Dataset of Code Smells and Quality Metrics",
+    "year": "2021",
+    "url": "https://doi.org/10.1109/MSR52588.2021.00080",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Code Quality, Static Analysis, Repository Mining",
+    "devops_activity": "Design Definition, Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "GitHub repository selection (stars, language)",
+        "usage": "Selected Java and C# repos from GitHub based on activity and popularity metrics (stars, commits) for dataset inclusion"
+      },
+      {
+        "feature": "code metrics annotations",
+        "usage": "Mapped static analysis results back to specific GitHub repositories and commits to create time-series quality data"
+      },
+      {
+        "feature": "fork count",
+        "usage": "Fetched forks to supplement quality metrics with social engagement indicators per repo"
+      },
+      {
+        "feature": "stars",
+        "usage": "Retrieved star counts to correlate code quality metrics with perceived repository popularity"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Quality Assurance Awareness in Open Source Software Projects on GitHub",
+    "year": "2023",
+    "url": "https://doi.org/10.1109/SCAM59687.2023.00027",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Quality Assurance, Developer Awareness, GitHub Automation",
+    "devops_activity": "Verification (Continuous Testing), Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "continuous integration indicators",
+        "usage": "Surveyed maintainers for presence of GitHub Actions, status badges, and CI workflows in repositories"
+      },
+      {
+        "feature": "testing frameworks",
+        "usage": "Asked about awareness of automated test coverage tools (e.g., Codecov) and their integration via GitHub Actions"
+      },
+      {
+        "feature": "code review processes",
+        "usage": "Measured awareness of pull request review features and static analysis apps (e.g., LGTM, CodeQL) on GitHub"
+      },
+      {
+        "feature": "contributing guidelines",
+        "usage": "Collected data on presence of CONTRIBUTING.md files to assess developer onboarding and QA awareness"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Recovering Commit Branch of Origin from GitHub Repositories",
+    "year": "2016",
+    "url": null,
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Version Control, Branch Analysis, Traceability",
+    "devops_activity": "Operation (Deploy & Monitor), Feedback & Continuous Improvement",
+    "github_metadata_features": [
+      {
+        "feature": "merge commit messages",
+        "usage": "Parsed default GitHub merge messages (e.g., 'Merge branch…') to recover branch-of-origin information"
+      },
+      {
+        "feature": "commit parent pointers",
+        "usage": "Used DAG parent links in Git commits to infer branch relationships for non-merge commits"
+      },
+      {
+        "feature": "GitHub API to fetch commit metadata",
+        "usage": "Obtained SHA and parent SHAs via GitHub API to reconstruct branch-of-origin for each commit"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Curating GitHub for Engineered Software Projects",
+    "year": "2017",
+    "url": "https://doi.org/10.1007/s10664-017-9512-6",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Repository Curation, Data Quality, Machine Learning for Repository Classification",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "stars",
+        "usage": "Used as a feature in classifiers to distinguish engineered projects from homework/experiment repos"
+      },
+      {
+        "feature": "forks",
+        "usage": "Incorporated as a dimension indicating community engagement in the curated dataset"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Counted unique contributors via GitHub API to assess whether a repository reflects an engineered project"
+      },
+      {
+        "feature": "issues",
+        "usage": "Checked for presence and number of issue-tracker entries to validate evidence of project maintenance"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Githru: Visual Analytics for Understanding Software Development History Through Git Metadata Analysis",
+    "year": "2019",
+    "url": "https://doi.org/10.1109/ICSE.2019.00041",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Visual Analytics, Software Repository Mining",
+    "devops_activity": "Feedback & Continuous Improvement, Operation (Deploy & Monitor)",
+    "github_metadata_features": [
+      {
+        "feature": "commits",
+        "usage": "Visualized commit frequency and patterns over time to understand development history"
+      },
+      {
+        "feature": "branches",
+        "usage": "Displayed branch creation and merge timelines for workflow analysis"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Showed contributor activity distributions to highlight team collaboration"
+      },
+      {
+        "feature": "file churn",
+        "usage": "Analyzed changes per file over time to detect hotspots and refactoring"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "How do Software Engineering Researchers Use GitHub? An Empirical Study of Artifacts & Impact",
+    "year": "2016",
+    "url": "https://doi.org/10.1145/2901739.2901747",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Empirical Software Engineering, Research Practices",
+    "devops_activity": "Feedback & Continuous Improvement, Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "pull requests",
+        "usage": "Analyzed PR usage by researchers to share and review code"
+      },
+      {
+        "feature": "issues",
+        "usage": "Surveyed issue creation by researchers to track bugs and feature requests"
+      },
+      {
+        "feature": "stars",
+        "usage": "Measured repository popularity for research artifacts"
+      },
+      {
+        "feature": "forks",
+        "usage": "Counted forks to understand sharing and adaptation of research code"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "Internal Quality Assurance for External Contributions in GitHub: An Empirical Study",
+    "year": "2017",
+    "url": "https://doi.org/10.1007/s10664-017-9512-6",
+    "relevance": "relevant",
+    "topic": "devops",
+    "domain": "Quality Assurance, Code Review, Collaboration",
+    "devops_activity": "Verification (Continuous Testing), Integration (Continuous Integration)",
+    "github_metadata_features": [
+      {
+        "feature": "pull request review comments",
+        "usage": "Collected review comments to assess review thoroughness"
+      },
+      {
+        "feature": "continuous integration workflow runs",
+        "usage": "Tracked CI job success/failure for external PRs"
+      },
+      {
+        "feature": "issue labels",
+        "usage": "Used labels to categorize QA-related issues"
+      },
+      {
+        "feature": "contributors",
+        "usage": "Differentiated internal vs external contributors to measure QA workload"
+      }
+    ],
+    "zenodo_metadata_features": null,
+    "zenodo_fairness_purpose": null
+  },
+  {
+    "paper_title": "FAIR4RS 2022: Community Recommendations for FAIRness in Research Software",
+    "year": "2022",
+    "url": "https://doi.org/10.5281/zenodo.6453456",
+    "relevance": "irrelevant",
+    "topic": "fairness",
+    "domain": "Research Software FAIRness, Community Guidelines",
+    "devops_activity": null,
+    "github_metadata_features": [],
+    "zenodo_metadata_features": [
+      {
+        "feature": "DOI",
+        "usage": "Recommended for persistent identification of research software"
+      },
+      {
+        "feature": "license",
+        "usage": "Outlined as mandatory to clarify reuse rights and improve reusability"
+      },
+      {
+        "feature": "title",
+        "usage": "Standardized naming for discoverability"
+      }
+    ],
+    "zenodo_fairness_purpose": "Zenodo is promoted as a platform for publishing FAIR-compliant research software"
+  }
+]
+

@@ -1,0 +1,163 @@
+
+
+#Based on International Software Testing Qualifications Board (ISTQB)
+test_keywords = [
+    "code coverage", "component integration testing", "component testing", "data‑driven testing", "decision table testing", "dynamic testing",
+    "equivalence partitioning", "exploratory testing", "functional testing", "integration testing", "interoperability testing", "keyword‑driven testing",
+    "load testing", "model‑based testing (MBT)", "non‑functional testing", "performance testing", "portability testing", "regression testing",
+    "risk‑based testing", "security testing", "session‑based testing", "state transition testing", "static testing", "stub", "system testing",
+    "test automation", "test case", "test design", "A/B testing", "test environment", "test execution", "test harness", "test management",
+    "unit testing", "test oracle", "test plan", "test strategy", "test suite", "test technique", "usability testing", "automated test",
+    "test script", "testing framework", "successful test", "failing test", "e2e test", "functional test", "added test", "adding test", 
+    "basic test", "corresponding test", "failed test", "fix test", "regression test","unit test", "integration test", "test function", 
+    "test runner", "system test"
+]
+
+
+dep_keywords = [
+    "requirements.txt", "setup.py", "environment.yml", "package.json", "Pipfile", "poetry.lock", "composer.json", "Gemfile", "pom.xml",
+    "build.gradle", "Cargo.toml", "yarn.lock", "pyproject.toml", "deps", "node_modules", "venv", "wheel", "egg", "bower.json", 
+    "requirements.lock", "npm-shrinkwrap.json", "package-lock.json", "config file", "environment variable", "env file", "configuration option", 
+    "docker image", "conda env", "virtual environment", "setup script", "dependency", "added dependency", "adding dependency", 
+    "dependency issue", "dependency management", "bump dependency", "bump version", "dev dependency", "production dependency",
+    "lock file", "pip dependency", "npm package", "upgrade dependency", "dependency resolution"
+]
+
+
+#Google Machine Learning Glossary
+ai_keywords = [
+    "ablation", "accelerator chip", "accuracy", "active learning", "AdaGrad", "svm", "agent", "agglomerative clustering",
+    "anomaly detection", "area under the PR curve", "ensemble learning", "area under the ROC curve", "artificial general intelligence",
+    "artificial intelligence", "attention", "augmented reality", "autoencoder", "automation bias", "AutoML", "auto-regressive model",
+    "auxiliary loss", "average precision at k", "backpropagation", "bagging", "bag of words", "baseline", "batch normalization",
+    "batch size", "Bayesian neural network", "Bayesian optimization", "Bellman equation", "BERT", "bias (ethics/fairness)",
+    "bidirectional", "bidirectional language model", "bigram", "binary classification", "binning", "BLEU", "BLEURT", "boosting",
+    "bounding box", "bucketing", "calibration layer", "candidate generation", "candidate sampling", "causal language model",
+    "centroid-based clustering", "chain-of-thought prompting", "checkpoint", "classification model", "classification threshold",
+    "classifier", "class-imbalanced dataset", "clipping", "Cloud TPU", "clustering", "co-adaptation", "collaborative filtering",
+    "concept drift", "confirmation bias", "confusion matrix", "cross-validation", "convolutional neural network", "data augmentation",
+    "deep learning", "decision tree", "dropout", "encoder", "embedding", "epoch", "feature engineering", "fine-tuning",
+    "forward pass", "generalization", "gradient", "gradient descent", "hyperparameter", "inference", "k-means", "labeled data",
+    "latent space", "learning rate", "loss", "multi-class classification", "multi-head attention", "natural language processing",
+    "neural network", "overfitting", "prediction", "precision", "recall", "recurrent neural network", "regularization",
+    "reinforcement learning", "residual network", "supervised learning", "tokenization", "transformer", "training", "transfer learning",
+    "unsupervised learning", "validation", "machine learning", "model training", "model evaluation", "model selection", "prompt engineering",
+    "ai usage", "automated reasoning", "general reasoning", "transformer backend", "foundation model", "predictive model"
+]
+
+
+#Testi, M., Ballabio, M., Frontoni, E., Iannello, G., Moccia, S., Soda, P., & Vessio, G. (2022). MLOps: a taxonomy and a methodology. IEEE Access, 10, 63606-63618.
+devops_keywords = [
+    "MLOps", "Machine Learning Operations", "Continuous Integration", "CI", "Continuous Delivery", "CD", "Continuous Training", "CT",
+    "Continuous Monitoring", "CM", "Sustainability", "Data Acquisition", "ML Methodology", "Pipeline CI Components",
+    "Pipeline CD Components", "Automated ML Triggering", "Model Registry Storage", "Production ML Service", "DevOps", "Data Engineering",
+    "CRISP-DM", "Key Performance Indicator", "KPI", "Representational State Transfer", "REST", "Objective and Key Result", "OKR",
+    "infrastructure automation", "Application Programming Interface", "API", "Data Labeling Tools", "Data Versioning Tools",
+    "Feature Engineering Tools", "Experiment Tracking Tools", "Model Deployment Tools", "Model Monitoring Tools",
+    "ML-based Software Systems", "auto-scaling", "Model-Centric Frameworks", "ML Use Case Applications", "ML Automation Frameworks",
+    "MLflow", "Kedro", "Amazon SageMaker", "MLPerf", "MLModelScope", "Deep500", "Traceability", "Reproducibility", "Data Governance",
+    "Source Code Management", "SCM", "virtualization", "Repository", "Containerization", "Container Image", "Registry",
+    "Staging Environment", "ansible", "Model Registry Archiving", "Automatic Activation", "infrastructure as code", "log aggregation",
+    "orchestration tools", "circle ci", "circleci", "build script", "ci badge", "github action", "ci workflow", "jenkins pipeline", 
+    "docker file", "travis ci", "dependabot action", "release workflow","docker", "dockerfile", "release candidate", "git repository", 
+    "pipeline", "admin migration", "admin skip", "azure pipeline", "deployment script"
+]
+
+
+#https://www.coursera.org/collections/agile-terms
+#https://clickup.com/blog/agile-scrum-terms/
+#https://www.atlassian.com/blog/project-management/agile-terms-project-management
+agile_keywords = [
+    "Agile", "Product Backlog", "Daily Scrum", "Empirical Process Control", "Incremental Development",
+    "Joint Application Development (JAD)", "Minimum Viable Product (MVP)", "Product Owner", "Retrospective", "Scrum",
+    "Release Planning", "Scrum Master", "User Story", "Velocity", "XP (Extreme Programming)", "Acceptance Criteria",
+    "Acceptance Test", "Agile Manifesto", "Agile Mindset", "Agile Principle", "Agile Release Train", "Agile Transformation",
+    "Backlog Refinement", "Burndown Chart", "Burnup Chart", "DSDM (Dynamic systems development method)", "Epics", "Kanban",
+    "Product Manager", "Scaled Agile Framework", "Scrumban", "Scrum Team", "Sprint", "Sprint Backlog", "Sprint Goal",
+    "Sprint Planning", "Sprint Retrospective", "Sprint Review", "Stakeholder", "Story Points", "Task Board", "Cadence",
+    "Agile Software Development", "Agile Marketing", "Continuous Improvement", "Self-organizing Teams", "Time-boxing",
+    "Empowered Teams", "Iteration Planning", "Iteration Review", "Kanban Board", "Scrum Board", "first iteration", "first draft", 
+    "first implementation", "first release", "development iteration", "development cycle", "next development iteration", 
+    "next development cycle", "next release", "abstract goal", "abstract goal state", "iteration", "backlog", 
+    "epic", "added change", "change log", "address issue"
+]
+
+
+#https://www.devx.com/terms/code-review/
+#https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+#https://www.atlassian.com/agile/software-development/code-reviews
+code_review_keywords = [
+    "pull request", "code review", "merge request", "peer review", "code inspection", "review comments", "diff review",
+    "branch review", "review workflow", "code collaboration", "logic errors", "style guidelines", "knowledge sharing",
+    "draft pull request", "code diff", "constructive feedback", "continuous feedback", "inline comments", "review checklist",
+    "pre-merge review", "post-merge review", "code walkthrough", "review automation", "review board", "review process",
+    "review metrics", "collaborative review", "review session", "review comment", "pr comment", "review update",
+    "review fix", "reviewer checklist", "reviewer comment", "bug fix", "fixed bug", "fix error", "corrected bug", 
+    "corrected error", "bug report", "issue cause", "addressing issue", "fixing problem", "pr review", "review feedback"
+]
+
+
+#Information security, cybersecurity and privacy protection — Information security management systems — Requirements
+#https://www.jit.io/resources/security-standards
+#https://nordlayer.com/blog/software-development-security-best-practices/
+#https://www.legitsecurity.com/secure-software-development-best-practices
+security_keywords = [
+    "AppSec", "Cloud Security", "Security Frameworks", "OWASP Top 10", "OWASP ASVS", "Cyber Resilience Act", "SOC2 Compliance",
+    "AWS FTR", "SAST", "SCA", "Secrets Detection", "IaC Scanning", "Security as Code", "DevSecOps", "Continuous Monitoring",
+    "Penetration Testing", "Dynamic Analysis", "Incident Response", "Risk Management", "Compliance", "Standardization", "firewall",
+    "Threat Intelligence", "Security Controls", "Vulnerability Remediation", "Secure Coding Practices", "ransomware",
+    "Secure Development Lifecycle", "SIEM", "CIS Controls & Benchmarks", "NIST Cybersecurity Framework", "ISO 27001",
+    "Cloud Controls Matrix", "MITRE ATT&CK Framework", "SLSA Framework", "Security Posture", "Data Breach Prevention",
+    "Audit Readiness", "Continuous Vulnerability Management", "Disaster Recovery", "Security Training and Awareness",
+    "Log Aggregation", "Data Leakage Prevention", "Encryption", "Access Control", "threat model", "two-factor authentication",
+    "multi-factor authentication", "Secure by Design", "SSDLC", "Safe Defaults", "Automatic Updates", "Defense-in-Depth",
+    "Network Monitoring", "Cloud Firewall", "Zero Trust Network Access", "Vulnerability Risk Rating", "Gap Analysis",
+    "Security Audits", "Security Automation", "Shift Left Security", "Software Supply Chain Security",
+    "Unified Application Security Control Plane", "Code-to-Cloud Traceability", "SBOM", "Cryptography", "Data Disposal",
+    "Data Retention", "OpenSAMM", "BSIMM", "security issue", "security vulnerability", "security patch", "security update",
+    "auth token", "authorization header", "security policy", "cybersecurity", "privacy protection", "information security",
+    "secure software development", "vulnerability management","security patch", "security policy","credential", "user authentication"
+    "security update","authentication feature", "ssl certificate", "secure token", "authorization header",    
+]
+
+#https://helpjuice.com/blog/software-documentation
+#https://medium.com/@nomannayeem/mastering-the-art-of-software-documentation-a06aa5d7e697
+#https://google.github.io/styleguide/docguide/best_practices.html
+documentation_keywords = [
+    "documentation", "readme", "wiki", "tutorial", "user manual", "API reference", "docstring", "knowledge base",
+    "documentation site", "technical documentation", "requirements documentation", "design documentation",
+    "project documentation", "product documentation", "process documentation", "maintenance documentation",
+    "deployment documentation", "legal documentation", "compliance documentation", "security documentation",
+    "system documentation", "style guide", "document templates", "documentation standards", "documentation automation",
+    "agile documentation", "knowledge management", "documentation update", "documentation review",
+    "documentation best practices", "changelog", "release notes", "doc fix", "readme fix", "documentation improvement",
+    "documentation link", "added documentation", "added docstring", "update doc", "update readme", "documentation fix", 
+    "added citation", "added comment", "markdown documentation", "installation guide", "api documentation",
+    "updating documentation", "installation doc", "manual", "doi badge", "doc update", "docs folder"
+]
+
+#https://best-practice-and-impact.github.io/qa-of-code-guidance/glossary.html
+#https://www.opsera.io/blog/13-code-quality-metrics-that-you-must-track
+#https://www.future-processing.com/blog/what-code-quality-is-and-how-to-improve-your-code/
+#https://www.qodo.ai/glossary/code-quality/
+code_quality_keywords = [
+    "lint", "pylint", "flake8", "eslint", "sonarqube", "code formatter", "prettier", "quality assurance", "code smell",
+    "refactoring", "cyclomatic complexity", "maintainability", "coding standards", "static code analysis", "code metrics",
+    "readability", "testability", "portability", "reusability", "robustness", "technical debt", "weighted micro function points",
+    "halstead complexity", "lines of code", "bug frequency", "performance optimization", "code maintainability index",
+    "code health", "code quality", "code analysis", "code improvement", "static analyzer", "code quality tooling", "clean code", 
+    "improved readability", "clang format", "black format", "lint fix", "style fix", "formatting change", "correct indentation", 
+    "flake8 error", "ruff check","refactor code", "code cleanup", "cleaning code", "removed unused code", "restructured", 
+    "removed redundant file", "code organization","codacy badge", "code refactoring", "format code", "style check", 
+    "static analysis", "duplicate code", "dead code"
+]
+
+gen_ai_keywords = [
+    "genAI", "generative AI", "AI-generated", "LLM", "large language model", "auto fix", "added code", "adding code", 
+    "gpt-4o", "gpt-4", "gpt-3.5", "openai", "copilot", "chatgpt", "claude", "bard", "llama", "gemini",
+    "code generation", "code generator", "generated code", "auto-generated", "auto-generation","foundation model", 
+    "AI-assisted code", "AI-generated code", "AI coding", "codegen", "automated coding", "automatic package template",
+    "generation script", "script generator", "auto-script", "ai-assisted coding","generative transformer",
+    "chatbot code", "conversation-driven development", "prompt engineering", "prompt-based coding","gen ai",
+    "generated by AI", "AI suggestion", "AI implementation", "generated solution", "AI refactoring"
+]

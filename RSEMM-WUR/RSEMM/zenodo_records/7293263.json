@@ -1,0 +1,275 @@
+{
+  "created": "2022-11-04T19:35:20.941710+00:00",
+  "modified": "2022-11-06T02:26:43.499244+00:00",
+  "id": 7293263,
+  "conceptrecid": "7293262",
+  "doi": "10.5281/zenodo.7293263",
+  "conceptdoi": "10.5281/zenodo.7293262",
+  "doi_url": "https://doi.org/10.5281/zenodo.7293263",
+  "metadata": {
+    "title": "hammaadadam1/EmergencyDecisions: emergency_decisions",
+    "doi": "10.5281/zenodo.7293263",
+    "publication_date": "2022-11-04",
+    "description": "<p>Code release for <em>Mitigating the impact of biased artificial intelligence in emergency decision-making</em></p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "hammaadadam1",
+        "affiliation": null
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/hammaadadam1/EmergencyDecisions/tree/v1",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ],
+    "version": "v1",
+    "resource_type": {
+      "title": "Software",
+      "type": "software"
+    },
+    "license": {
+      "id": "other-open"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "7293262"
+          }
+        }
+      ]
+    },
+    "query_term": [
+      "Artificial intelligence"
+    ]
+  },
+  "title": "hammaadadam1/EmergencyDecisions: emergency_decisions",
+  "links": {
+    "self": "https://zenodo.org/api/records/7293263",
+    "self_html": "https://zenodo.org/records/7293263",
+    "preview_html": "https://zenodo.org/records/7293263?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.7293263",
+    "self_doi": "https://doi.org/10.5281/zenodo.7293263",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7293263",
+    "reserve_doi": "https://zenodo.org/api/records/7293263/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/7293262",
+    "parent_html": "https://zenodo.org/records/7293262",
+    "parent_doi": "https://doi.org/10.5281/zenodo.7293262",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.7293262",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:7293263/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:7293263/sequence/default",
+    "files": "https://zenodo.org/api/records/7293263/files",
+    "media_files": "https://zenodo.org/api/records/7293263/media-files",
+    "archive": "https://zenodo.org/api/records/7293263/files-archive",
+    "archive_media": "https://zenodo.org/api/records/7293263/media-files-archive",
+    "latest": "https://zenodo.org/api/records/7293263/versions/latest",
+    "latest_html": "https://zenodo.org/records/7293263/latest",
+    "versions": "https://zenodo.org/api/records/7293263/versions",
+    "draft": "https://zenodo.org/api/records/7293263/draft",
+    "access_links": "https://zenodo.org/api/records/7293263/access/links",
+    "access_grants": "https://zenodo.org/api/records/7293263/access/grants",
+    "access_users": "https://zenodo.org/api/records/7293263/access/users",
+    "access_request": "https://zenodo.org/api/records/7293263/access/request",
+    "access": "https://zenodo.org/api/records/7293263/access",
+    "communities": "https://zenodo.org/api/records/7293263/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/7293263/communities-suggestions",
+    "requests": "https://zenodo.org/api/records/7293263/requests"
+  },
+  "updated": "2022-11-06T02:26:43.499244+00:00",
+  "recid": "7293263",
+  "revision": 3,
+  "files": [
+    {
+      "id": "069e9db2-2f15-4c57-80b7-c071a96c97e1",
+      "key": "hammaadadam1/EmergencyDecisions-v1.zip",
+      "size": 76134,
+      "checksum": "md5:803611cb780f3839def18191fc084a51",
+      "links": {
+        "self": "https://zenodo.org/api/records/7293263/files/hammaadadam1/EmergencyDecisions-v1.zip/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "434639"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 63,
+    "unique_downloads": 62,
+    "views": 311,
+    "unique_views": 280,
+    "version_downloads": 63,
+    "version_unique_downloads": 62,
+    "version_unique_views": 280,
+    "version_views": 311
+  },
+  "state": "done",
+  "submitted": true,
+  "repo-profile": {
+    "software-engineering-efforts": {
+      "repo": "https://github.com/hammaadadam1/EmergencyDecisions",
+      "dimensions": {
+        "community": {
+          "actual": 2.0,
+          "estimation": "high"
+        },
+        "ci": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "documentation": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "history": {
+          "actual": 120.0,
+          "estimation": "high"
+        },
+        "issues": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "license": {
+          "actual": 0.0,
+          "estimation": "low"
+        },
+        "unittest": {
+          "actual": 0.0,
+          "estimation": "low"
+        }
+      },
+      "raw": {
+        "total_sloc": 0,
+        "total_cloc": 0,
+        "test_sloc": 0,
+        "total_commits": 4,
+        "first_commit_date": "2022-05-21T21:40:41+00:00",
+        "last_commit_date": "2022-05-21T22:31:42+00:00",
+        "duration_months": 0.03333333333333333,
+        "issue_events": 0
+      }
+    },
+    "ai-ml-ops": {
+      "repository": "hammaadadam1/EmergencyDecisions",
+      "category": "None",
+      "types": [],
+      "name": "EmergencyDecisions",
+      "description": "Replication code and data for 'Just Following AI Orders: When Unbiased People Are Influenced By Biased AI'",
+      "topics": [],
+      "timestamp": "2025-06-06T08:19:14.678888+00:00"
+    },
+    "code-gen-evaluation": {
+      "#AllFiles": 2,
+      "#Selected Recent Files": 2,
+      "#Human": 0,
+      "#AI": 2,
+      "ai_ratio": 1.0,
+      "estimation": "High",
+      "analyzed-scripts": {
+        "scripts/healthcare_analysis.R": "AI",
+        "scripts/nonexpert_analysis.R": "AI"
+      }
+    },
+    "recommendation": "1. Increase focus on continuous integration practices to improve code quality and catch issues early in the development process.\n2. Enhance documentation to make the software more accessible and easier to understand for both current and future contributors.\n3. Implement unit testing to ensure the reliability and stability of the software.\n4. Address licensing issues to ensure compliance and promote reuse of the software by others.\n5. Improve reusability of the software by making it more modular and configurable for different use cases.\n6. Leverage AI capabilities to enhance the software's functionality and efficiency.\n7. Utilize code generation tools to streamline development and reduce manual errors in the codebase.",
+    "citations": {
+      "citations_found": 0,
+      "citations": []
+    },
+    "fair-assessment": {
+      "subprinciple_assessment": {
+        "doi_present": "yes",
+        "subcomponent_identifiers": "yes",
+        "version_identifiers": "yes",
+        "rich_metadata_present": "no",
+        "metadata_includes_doi": "yes",
+        "metadata_accessible": "yes",
+        "software_retrievable": "yes",
+        "authentication_required": "not applicable",
+        "metadata_persistent": "yes",
+        "uses_standard_data_formats": "yes",
+        "qualified_references_to_objects": "no",
+        "clear_license": "yes",
+        "provenance_with_orcid": "no",
+        "qualified_references_to_software": "no",
+        "ci_or_community_standards": "no"
+      },
+      "principle_categories": {
+        "Findable": "High",
+        "Accessible": "Medium",
+        "Interoperable": "Medium",
+        "Reusable": "Low"
+      },
+      "overall_fairness": "Medium",
+      "git_url": "https://github.com/hammaadadam1/EmergencyDecisions",
+      "howfairis_score": 1,
+      "howfairis_details": {
+        "repository": "yes",
+        "license": "no",
+        "registry": "no",
+        "citation": "no",
+        "quality": "no"
+      }
+    }
+  },
+  "Github-metadata": {
+    "GitHub_full_name": "hammaadadam1/EmergencyDecisions",
+    "GitHub_description": "Replication code and data for 'Just Following AI Orders: When Unbiased People Are Influenced By Biased AI'",
+    "GitHub_fork": false,
+    "GitHub_forks_count": 1,
+    "GitHub_git_url": "git://github.com/hammaadadam1/EmergencyDecisions.git",
+    "GitHub_created_at": "2022-05-21T21:38:45Z",
+    "GitHub_updated_at": "2023-08-16T19:22:27Z",
+    "GitHub_pushed_at": "2022-11-04T19:35:16Z",
+    "GitHub_size": 72,
+    "GitHub_stargazers_count": 1,
+    "GitHub_watchers_count": 1,
+    "GitHub_network_count": 1,
+    "GitHub_open_issues_count": 0,
+    "GitHub_default_branch": "main",
+    "GitHub_private": false,
+    "GitHub_is_archived": false,
+    "GitHub_is_mirrored": false,
+    "GitHub_has_issues": true,
+    "GitHub_has_projects": true,
+    "GitHub_has_wiki": true,
+    "GitHub_has_discussions": false,
+    "GitHub_visibility": "public",
+    "GitHub_git_license": null,
+    "GitHub_languages": [
+      "R"
+    ],
+    "GitHub_topics": [],
+    "GitHub_workflow_total_count": 0,
+    "GitHub_workflows_names": [],
+    "GitHub_has_README": true,
+    "GitHub_branches_names": [
+      "main"
+    ],
+    "GitHub_git_number_of_branches": 1,
+    "GitHub_contributors_count": 1,
+    "GitHub_commits_messages": [
+      "Update README.md",
+      "Update README.md",
+      "Update README.md",
+      "code and analysis"
+    ],
+    "GitHub_commits_verification_reasons": [
+      "valid",
+      "valid",
+      "valid"
+    ],
+    "GitHub_commits_verification_verified_count": 3,
+    "GitHub_git_number_of_updates": 4,
+    "GitHub_git_number_of_authors": 1,
+    "GitHub_git_number_of_committers": 2
+  }
+}
