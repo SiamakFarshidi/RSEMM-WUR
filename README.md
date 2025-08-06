@@ -3,7 +3,7 @@
 **RSEMM** is an open-source web dashboard designed to evaluate the **maturity**, **FAIRness**, and **impact** of research software. It provides actionable insights for developers, maintainers, and researchers seeking to improve the quality and sustainability of their codebases.
 
 > 🔗 Access the dashboard: [https://ai4rse.nl/RSEMM/](https://ai4rse.nl/RSEMM/)  
-> 📂 Evaluation dataset: [Mendeley Data](https://doi.org/10.17632/t2dygzcsyt.2)  
+> 📂 Evaluation dataset: [Mendeley Data](https://data.mendeley.com/datasets/t2dygzcsyt/1)  
 > 💻 Source code: [GitHub Repository](https://github.com/SiamakFarshidi/RSEMM-WUR)
 
 ---
